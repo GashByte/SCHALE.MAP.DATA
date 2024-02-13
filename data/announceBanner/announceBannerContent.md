@@ -185,6 +185,8 @@ https://www.bilibili.com/video/BV1Ne41127zL/
 
 # announceBanner05
 
+## 100次免费招募！
+
 ![announce-banner05.png](https://s2.loli.net/2024/02/13/1Pwl8eAUKZnjxVk.jpg)
 
 只要登录游戏就可至多获得 100 次免费招募次数，这是老师与更多成员相遇的绝好机会，可千万别错过啦！
