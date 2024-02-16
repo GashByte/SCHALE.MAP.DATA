@@ -58,7 +58,7 @@
       "characterAge": "16岁",
       "birthday": "3月12日",
       "profileIntroduction": "自称是便利屋68的社长。\n\n便利屋68原本是歌赫娜的社团，但她将其随意进行扩张，经营非法事业。\n爱露希望自己在别人眼里是个帅气的反派，不过她却经常闹出乌龙，一不小心就会在人前暴露自己的真面目。",
-      "collectionBG": ""
+      "collectionBG": "BG_Gehenna_Collection"
     },
     "characterStats": {
       "minHP": 2236,
@@ -139,7 +139,7 @@
       "characterAge": "15岁",
       "birthday": "5月1日",
       "profileIntroduction": "千禧年科技超自然现象调查部的要员。\n\n她是一个仿佛生活在四次元空间的少女，很少有人能看透她的想法。不仅沉默寡言，而且经常毫无理由地站着发呆。\n但是，执行研讨会委托的任务时，能比任何人都更有效率地行动并达成目标。",
-      "collectionBG": ""
+      "collectionBG": "BG_Millennium_Collection"
     },
     "characterStats": {
       "minHP": 3066,
@@ -224,7 +224,7 @@
       "characterAge": "17岁",
       "birthday": "3月1日",
       "profileIntroduction": "歌赫娜美食研究会的会长。\n\n单看外貌就像个富家小姐，全身流露出高贵的气质，但一涉及到美食，就会不管不顾，是个热血十足的美食家。\n虽然很爱吃东西，但胃口小，所以实际吃的东西并不多。\n据说肠锅或者内脏这类油腻的食物是她的最爱。",
-      "collectionBG": ""
+      "collectionBG": "BG_Gehenna_Collection"
     },
     "characterStats": {
       "minHP": 2188,
@@ -305,7 +305,7 @@
       "characterAge": "16岁",
       "birthday": "11月27日",
       "profileIntroduction": "崔尼蒂补习部成员，是个感情细腻的少女。\n\n她的长相和成绩都不算出众，但因其性格温柔，所以人气很高。\n虽然她很愿意倾听周围的人诉说烦恼和故事，但也会无意间受到氛围影响而惹出麻烦。",
-      "collectionBG": ""
+      "collectionBG": "BG_Trinity_Collection"
     },
     "characterStats": {
       "minHP": 2250,
@@ -390,7 +390,7 @@
       "characterAge": "17岁",
       "birthday": "2月19日",
       "profileIntroduction": "歌赫娜的风纪委员长。\n\n平时怕麻烦，总是把“好麻烦”挂嘴边，\n但在与风纪相关的问题上却会露出严厉的一面，\n在战场上也会毫不犹豫地对情况做出判断。\n因此，对歌赫娜抱有敌意的组织最害怕她的出现。",
-      "collectionBG": ""
+      "collectionBG": "BG_Gehenna_Collection"
     },
     "characterStats": {
       "minHP": 2258,
@@ -471,7 +471,7 @@
       "characterAge": "17岁",
       "birthday": "1月2日",
       "profileIntroduction": "阿拜多斯理事会副会长兼对策委员会会长。是个十足的懒虫少女。\n\n喜欢用大叔的语气说话，比起工作，她更喜欢搞恶作剧。\n因此，她经常被委员会成员们批评。不过一旦开始执行任务，就会为了保护成员们奋战在战场最前方。",
-      "collectionBG": ""
+      "collectionBG": "BG_Abydos_Collection"
     },
     "characterStats": {
       "minHP": 2924,
@@ -552,7 +552,7 @@
       "characterAge": "16岁",
       "birthday": "11月8日",
       "profileIntroduction": "隶属于歌赫娜的风纪委员会，是个冷酷无情的专家。\n\n作为风纪委员会的行动队长，只要发现违反规定的人，就会用压倒性的力量毫不留情地给予处罚。\n做事干净利落，战斗能力出众。但一旦发现敌人就会鲁莽地冲上去，这种不管不顾的性格让她很容易落入简单的陷阱。",
-      "collectionBG": ""
+      "collectionBG": "BG_Gehenna_Collection"
     },
     "characterStats": {
       "minHP": 2313,
@@ -628,7 +628,7 @@
       "characterAge": "15岁",
       "birthday": "8月1日",
       "profileIntroduction": "千禧年科技的黑客组织——真理社的成员。\n\n一个喜欢涂鸦的淘气少女，真理社的徽章也是她的作品之一。\n因为对任何事都持以不认真、不重视的态度，所以经常和别的社团起冲突。",
-      "collectionBG": ""
+      "collectionBG": "BG_Millennium_Collection"
     },
     "characterStats": {
       "minHP": 2288,
@@ -704,7 +704,7 @@
       "characterAge": "17岁",
       "birthday": "8月17日",
       "profileIntroduction": "千禧年科技的特工组织——“C&C”的部长。\n\n乍一看只是个在女仆装外面套了件刺绣夹克的小太妹，其实是千禧年任务执行能力最强的特工。\n她的代号00在整个千禧年已经成了必胜的象征。",
-      "collectionBG": ""
+      "collectionBG": "BG_Millennium_Collection"
     },
     "characterStats": {
       "minHP": 2252,
@@ -785,7 +785,7 @@
       "characterAge": "16岁",
       "birthday": "5月11日",
       "profileIntroduction": "歌赫娜美食研究会的一员，什么都爱吃的吃货少女。\n\n不仅非常喜欢美食，连别人厌恶的黑暗料理都能吃得干干净净。",
-      "collectionBG": ""
+      "collectionBG": "BG_Gehenna_Collection"
     },
     "characterStats": {
       "minHP": 2295,
@@ -870,7 +870,7 @@
       "characterAge": "16岁",
       "birthday": "5月16日",
       "profileIntroduction": "喜欢运动，是阿拜多斯对策委员会的突击队长。\n\n因为沉默寡言、面无表情，所以给人一种很冷漠的印象，但其实比任何人都热爱阿拜多斯。\n为了阿拜多斯的复兴，她主张不惜一切手段，偶尔还会提出天马行空的想法。",
-      "collectionBG": ""
+      "collectionBG": "BG_Abydos_Collection"
     },
     "characterStats": {
       "minHP": 2225,
@@ -951,7 +951,7 @@
       "characterAge": "绝密",
       "birthday": "2月5日",
       "profileIntroduction": "山海经训育支援部——梅花园的教官。\n\n她是梅花园培训小朋友的教官，因其温柔宽厚的品性，不仅是梅花园的小朋友，连山海经的其他女生们也对她非常信任。\n长久以来一直做教官的她，很少会因为小朋友们的恶作剧发火，但对提及自己的年龄非常敏感。",
-      "collectionBG": ""
+      "collectionBG": "BG_Sanhaijing_Collection"
     },
     "characterStats": {
       "minHP": 2227,
@@ -1027,7 +1027,7 @@
       "characterAge": "16岁",
       "birthday": "8月20日",
       "profileIntroduction": "千禧年健身部的部长。\n\n她是个热衷于体育锻炼的运动少女。思维方式非常单纯，坚信这世上的所有问题都可以通过肌肉和运动解决。",
-      "collectionBG": ""
+      "collectionBG": "BG_Millennium_Collection"
     },
     "characterStats": {
       "minHP": 2268,
@@ -1108,7 +1108,7 @@
       "characterAge": "17岁",
       "birthday": "6月24日",
       "profileIntroduction": "崔尼蒂正义实现部的部长，也是崔尼蒂的官方战略武器。\n\n好战且狂躁的她，只要有什么东西不满意，就会靠武力解决。\n多亏了副部长莲见，正义实现部才勉强得以维持。虽然疯狂的鹤城通常都像烈犬一般无法控制，但在老师面前有时也会露出少女害羞的一面。",
-      "collectionBG": ""
+      "collectionBG": "BG_Trinity_Collection"
     },
     "characterStats": {
       "minHP": 2568,
@@ -1189,7 +1189,7 @@
       "characterAge": "15岁",
       "birthday": "12月16日",
       "profileIntroduction": "隶属于百鬼夜行忍术研究部的少女。\n\n虽然活泼开朗，但因追求着他人无法理解的梦想，一直以来都是孤身一人。而她的梦想就是成为基沃托斯最强的忍者。\n为了成为一个出色的忍者，泉奈称呼老师“主公”，并一直活跃在各种任务中。",
-      "collectionBG": ""
+      "collectionBG": "BG_Hyakkiyako_Collection"
     },
     "characterStats": {
       "minHP": 2531,
@@ -1270,7 +1270,7 @@
       "characterAge": "？？岁",
       "birthday": "3月25日",
       "profileIntroduction": "千禧年游戏开发部的成员。\n\n在废墟发现的来历不明的少女，无法查到包括年龄在内的所有情报。\n一直跟着桃和绿打游戏的她，已经成了重度游戏迷。\n原本说话很呆板，但现在常常用复古游戏的台词代替。",
-      "collectionBG": ""
+      "collectionBG": "BG_Millennium_Collection"
     },
     "characterStats": {
       "minHP": 1912,
@@ -1346,7 +1346,7 @@
       "characterAge": "15岁",
       "birthday": "12月8日",
       "profileIntroduction": "千禧年游戏开发部的原画师。\n\n她和双胞胎姐姐桃一起在游戏开发部开发游戏。\n性格谨慎的她和活泼开朗的姐姐原本关系不太好，但两个人因热爱游戏而意气相投，现在成了最好的挚友。",
-      "collectionBG": ""
+      "collectionBG": "BG_Millennium_Collection"
     },
     "characterStats": {
       "minHP": 2222,
@@ -1427,7 +1427,7 @@
       "characterAge": "？？岁",
       "birthday": "10月27日",
       "profileIntroduction": "红冬学院的理事会长。\n\n对权力有着很强的执念和野心，哪怕每周都因革命下台，也总是会想办法回到自己的位置上。\n鼻子下面挂着的假胡子象征着威严，切里诺相信自己的权力都来自于此。",
-      "collectionBG": ""
+      "collectionBG": "BG_Redwinter_Collection"
     },
     "characterStats": {
       "minHP": 2211,
@@ -1508,7 +1508,7 @@
       "characterAge": "16岁",
       "birthday": "8月12日",
       "profileIntroduction": "千禧年游戏开发部的部长。\n\n患有社交恐惧症的少女，害怕跟人接触，大部分时间都在游戏开发部的柜子里度过。但论起对游戏的热情，她不会输给任何人。\n喜欢制作游戏与玩游戏。",
-      "collectionBG": ""
+      "collectionBG": "BG_Millennium_Collection"
     },
     "characterStats": {
       "minHP": 2197,
@@ -1589,7 +1589,7 @@
       "characterAge": "16岁",
       "birthday": "12月26日",
       "profileIntroduction": "崔尼蒂补习部的冰冷魔女。\n\n主动离开了曾经的学院，又因某种原因加入了崔尼蒂，目前正在努力习惯新的生活。害怕孤独，却因为不想给人添麻烦而主动远离所有人。这让补习部的成员们很是担心。",
-      "collectionBG": ""
+      "collectionBG": "BG_Trinity_Collection"
     },
     "characterStats": {
       "minHP": 2228,
@@ -1670,7 +1670,7 @@
       "characterAge": "15岁",
       "birthday": "4月16日",
       "profileIntroduction": "崔尼蒂补习部的一员。\n\n原本属于正义实现部，但因成绩下滑陷入留级危机，被强制编入了补习部。\n自命为精英，其实是一个连日常课程都跟不上的笨蛋。\n喜欢收集色色的杂志。看到毫不相干的东西后会擅自妄\n想，然后又自顾自地感到害羞。",
-      "collectionBG": ""
+      "collectionBG": "BG_Trinity_Collection"
     },
     "characterStats": {
       "minHP": 2436,
@@ -1751,7 +1751,7 @@
       "characterAge": "16岁",
       "birthday": "12月26日",
       "profileIntroduction": "第一次来海边玩，补习部的冰冷魔女。\n\n虽然为了不给别人添麻烦，平时总是试图维持一副冰冷的样子，但在不经意间被海滩快乐的气氛和与她同行的朋友们所影响，因此开始特别在意别人的视线。但在别人看来，她依然是那个熟悉的梓。",
-      "collectionBG": ""
+      "collectionBG": "BG_Swimsuit_Collection"
     },
     "characterStats": {
       "minHP": 1967,
@@ -1836,7 +1836,7 @@
       "characterAge": "17岁",
       "birthday": "2月19日",
       "profileIntroduction": "为了夏季集训而来到海滩的歌赫娜风纪委员长。\n\n虽然凡事都嫌麻烦，但为了这次训练，还是鼓足干劲来到了海滩。几乎没有去过大海，因此泳装和泳圈都是很久以前用过的。她对它们的尺寸至今依然合适这件事，悄悄地有些介意。除此之外，即便是夏日的海滩也丝毫没有影响到她维持纪律的决心。",
-      "collectionBG": ""
+      "collectionBG": "BG_Swimsuit_Collection"
     },
     "characterStats": {
       "minHP": 2194,
@@ -1917,7 +1917,7 @@
       "characterAge": "16岁",
       "birthday": "11月8日",
       "profileIntroduction": "歌赫娜风纪委员会所属的冷酷专家，正在参加夏季集训。\n\n和其他风纪委员一起监控着歌赫娜的问题儿童，以防她们在海滩闹事。虽然表面上不露声色，但内心对难得的夏日集训被一群笨蛋问题儿童搞砸这件事感到相当不满。",
-      "collectionBG": ""
+      "collectionBG": "BG_Swimsuit_Collection"
     },
     "characterStats": {
       "minHP": 2010,
@@ -2002,7 +2002,7 @@
       "characterAge": "16岁",
       "birthday": "5月16日",
       "profileIntroduction": "为了迎接夏天而精心准备的对策委员会行动队长。\n\n为做好比平时更完美的准备，她脱下平时的制服，穿上了骑行专用运动服。面对纵穿基沃托斯这种荒唐的目标，她依然没有感到一丝不安和担忧。",
-      "collectionBG": ""
+      "collectionBG": "BG_Ridingsuit_Collection"
     },
     "characterStats": {
       "minHP": 2115,
@@ -2083,7 +2083,7 @@
       "characterAge": "绝密",
       "birthday": "2月5日",
       "profileIntroduction": "梅花园的教官，喝了纱绫的秘药后身体变回了小孩子的样子。\n\n身体虽然变小了，心理却没变，所以她希望表现得像成年人一样稳重……\n年幼身体的本能总是牵着她的鼻子走。",
-      "collectionBG": ""
+      "collectionBG": "BG_CH0066_Collection"
     },
     "characterStats": {
       "minHP": 2244,
@@ -2159,7 +2159,7 @@
       "characterAge": "17岁",
       "birthday": "8月17日",
       "profileIntroduction": "为执行特别任务而换上兔女郎服装的C&C部长。\n\n平时绝对不会碰的服装类型，但为了任务不惜咬牙穿上。\n愿意按捺平时的脾气以完成作战，唯有披在身上的刺绣夹克绝不能放弃。",
-      "collectionBG": ""
+      "collectionBG": "BG_BunnyGirl_Collection"
     },
     "characterStats": {
       "minHP": 2714,
@@ -2240,7 +2240,7 @@
       "characterAge": "16岁",
       "birthday": "2月2日",
       "profileIntroduction": "千年科学学园所属，这次直接参加了最前线作战的「C&C」特工。\n\n一边嘴上说着「如果是为了任务的话」，一边又兴冲冲地换装。\n但果然还是比平时稍微更注意周围投来的视线。",
-      "collectionBG": ""
+      "collectionBG": "BG_BunnyGirl_Collection"
     },
     "characterStats": {
       "minHP": 2252,
@@ -2321,7 +2321,7 @@
       "characterAge": "17岁",
       "birthday": "3月24日",
       "profileIntroduction": "千年科学学园所属，为了执行潜入任务而换上了兔女郎服的「C&C」特工。\n\n虽说并没有穿着平时的女仆装，却和平时一样兴奋。\n倒不如说在新地点体验新事物，看上去比平时还要开心。",
-      "collectionBG": ""
+      "collectionBG": "BG_BunnyGirl_Collection"
     },
     "characterStats": {
       "minHP": 2131,
@@ -2397,7 +2397,7 @@
       "characterAge": "15岁",
       "birthday": "12月4日",
       "profileIntroduction": "崔尼蒂甜点部的一员，惹是生非第一名，却自称为浪漫主义者。\n\n会莫名其妙地说出一些有哲理的话，凡事都喜欢用甜点来打比方。每当她说出天马行空的话时，周围的人都会觉得很尴\n尬 ，但其实她只是单纯地想和大家一起分享浪漫而已。由于她对“浪漫”的定义总是不断变化，因此在旁人看来，所有人都被夏搞得晕头转向。",
-      "collectionBG": ""
+      "collectionBG": "BG_Trinity_Collection"
     },
     "characterStats": {
       "minHP": 2532,
@@ -2478,7 +2478,7 @@
       "characterAge": "15岁",
       "birthday": "8月22日",
       "profileIntroduction": "歌赫娜风纪委员会的医疗负责人，在工作途中因机缘巧合来到了温泉浴场。\n\n从订购新的药品，到阻止温泉开发部的新阴谋……即便来到了雪国的温泉浴场，她也不得不面对困扰她的诸多问题。不过，温泉乡的美景和悠闲氛围确实让疲惫紧绷的她稍显放松。",
-      "collectionBG": ""
+      "collectionBG": "BG_Onsen_Collection"
     },
     "characterStats": {
       "minHP": 2050,
@@ -2559,7 +2559,7 @@
       "characterAge": "16岁",
       "birthday": "3月12日",
       "profileIntroduction": "歌赫娜所属，自称是便利屋68的社长。\n\n为了迎接新年，祈愿便利屋在新的一年蒸蒸日上，花了大价钱设计发型、租借和服，在新年伊始就充满了干劲。 也许是因为这身衣服，比平时更有精神，情绪也更加饱满。以符合自己想像的方式展现从容的步伐和语气，扮演着有气质的社长。",
-      "collectionBG": ""
+      "collectionBG": "BG_Newyear_Collection"
     },
     "characterStats": {
       "minHP": 2225,
@@ -2640,7 +2640,7 @@
       "characterAge": "16岁",
       "birthday": "7月29日",
       "profileIntroduction": "歌赫娜所属，便利屋68的行动队长兼突击队长。\n\n为了迎接新年，和爱露一起去了活动现场玩耍。虽然仔细打扮了一番，但內心却一如往常，享受恶作剧带来的快乐。 面对在新年期间遇到种种问题的爱露，作壁上观享受节日。依旧是那个我行我素的小恶魔少女。",
-      "collectionBG": ""
+      "collectionBG": "BG_Newyear_Collection"
     },
     "characterStats": {
       "minHP": 2138,
@@ -2721,7 +2721,7 @@
       "characterAge": "18岁",
       "birthday": "4月3日",
       "profileIntroduction": "受到百鬼夜行学院处分后，又从矫正所中逃出来的【七囚人】之一。\n\n因其随心所欲的大规模无差别破坏活动，被冠以【灾厄之狐】之名，成了受人畏惧的对象。她的目的与动机尚不可知，据说面具后隐藏着恶鬼般可怕的真面目，但这也仅仅是个传言罢了。",
-      "collectionBG": ""
+      "collectionBG": "BG_Hyakkiyako_Collection"
     },
     "characterStats": {
       "minHP": 2226,
@@ -2802,7 +2802,7 @@
       "characterAge": "16岁",
       "birthday": "3月15日",
       "profileIntroduction": "百鬼夜行联合学院所属，「修行部」温柔的副部长。\n\n总是笑容开朗、举止沉稳，在大家之间很有威信。\n受到小时候读的少女漫画的影响而有着想成为「大和抚子」的梦想，并加入了修行部。\n每天与同是儿时玩伴兼部长的椿一起，向着料理扫除一类的修行径直前行。",
-      "collectionBG": ""
+      "collectionBG": "BG_Hyakkiyako_Collection"
     },
     "characterStats": {
       "minHP": 2133,
@@ -2883,7 +2883,7 @@
       "characterAge": "17岁",
       "birthday": "4月23日",
       "profileIntroduction": "三一综合学园所属，图书委员会的委员长。\n\n不知为何无比热爱书籍，同时相当不爱交际的少女。\n在书籍当中尤其喜爱古书，她本人每天都窝在被称作「古书馆」的地方不断进行古书的解读与管理。\n她的求知欲和与古书相关的知识及技术皆是一流，以至于被周围人冠以了「古书馆的魔法师」的别名。",
-      "collectionBG": ""
+      "collectionBG": "BG_Trinity_Collection"
     },
     "characterStats": {
       "minHP": 2146,
@@ -2964,7 +2964,7 @@
       "characterAge": "17岁",
       "birthday": "5月17日",
       "profileIntroduction": "三一综合学园所属，「修女会」认真而专心的少女。\n\n在修女会负责「教堂等设施的物品管理」一职，每天都认真地完成这项工作。\n但也有着冒失的一面，经常因为不断犯错而失去自信。\n平时随身携带的大公文包里装了譬如榴弹发射器之类的各种东西，她却能毫不费力地搬动。",
-      "collectionBG": ""
+      "collectionBG": "BG_Trinity_Collection"
     },
     "characterStats": {
       "minHP": 2222,
@@ -3040,7 +3040,7 @@
       "characterAge": "16岁",
       "birthday": "11月4日",
       "profileIntroduction": "负责红冬学园治安的保安委员会委员长。\n\n传说只要发现违反校规的学生时，会毫不犹豫地直接用残忍的惩戒处罚，是个没血没泪的冷血人，但实际上只是个没什么想法，只会运行切里诺会长命令的笨蛋。喜欢突击这个词，只要在红冬学园内发生问题，就会第一个跳出去，但因为是天生路痴，所以经常迷路。",
-      "collectionBG": ""
+      "collectionBG": "BG_Redwinter_Collection"
     },
     "characterStats": {
       "minHP": 2715,
@@ -3121,7 +3121,7 @@
       "characterAge": "15岁",
       "birthday": "1月7日",
       "profileIntroduction": "SRT特殊学园所属，「RABBIT小队」的小队长。\n\n憧憬前辈们的活跃身姿而入学SRT特殊学园，但学园却突然关闭，现在在公园里和同一小队的队员们一起露宿生活。\n表情变化少，感情很少表露出来，因此往往被周围的人认为性格冷淡。\n但实际上却是个内心经常挂念着队员们的温柔女孩。呼号是「RABBIT1」。",
-      "collectionBG": ""
+      "collectionBG": "BG_SRT_Collection"
     },
     "characterStats": {
       "minHP": 2733,
@@ -3202,7 +3202,7 @@
       "characterAge": "15岁",
       "birthday": "7月12日",
       "profileIntroduction": "SRT特殊学园所属，「RABBIT小队」的狙击手。\n\n作为狙击手的才能备受赏识而入学SRT特殊学园，但学园却突然关闭，现在在公园里和同一小队的队员们一起露宿生活。\n毫无存在感，虽说这点有助于狙击任务，但不止是敌方，连我方都常常忘记她的存在。\n呼号是「RABBIT4」。",
-      "collectionBG": ""
+      "collectionBG": "BG_SRT_Collection"
     },
     "characterStats": {
       "minHP": 2127,
@@ -3278,7 +3278,7 @@
       "characterAge": "15岁",
       "birthday": "4月5日",
       "profileIntroduction": "百鬼夜行联合学院所属，「忍术研究部」的成员。\n\n从小就长得快，因为过高的体格而经常被戏弄，以至于现在形成了保守的性格。\n基本上是个不擅长和别人对话的胆小的人，但也有着一旦下了决心无论什么情况都会投身其中的刚强一面。\n尽管对忍者的事还不太熟悉，但现在和她尊敬的满以及泉奈一起在愉快地努力进行活动。",
-      "collectionBG": ""
+      "collectionBG": "BG_Hyakkiyako_Collection"
     },
     "characterStats": {
       "minHP": 2722,
@@ -3354,7 +3354,7 @@
       "characterAge": "16岁",
       "birthday": "1月13日",
       "profileIntroduction": "阿里乌斯分校所属，给人话少而冷淡印象的「阿里乌斯小队」少女。\n\n对无论他人还是自己都不怎么感兴趣，有时也会做出自暴自弃的行为。\n在手腕和脖子上，似乎为了隐藏什么而缠有厚厚的绷带。",
-      "collectionBG": ""
+      "collectionBG": "BG_Arius_Collection"
     },
     "characterStats": {
       "minHP": 2231,
@@ -3430,7 +3430,7 @@
       "characterAge": "15岁",
       "birthday": "1月20日",
       "profileIntroduction": "阿里乌斯分校所属，一直戴着防毒面具看不到表情，令人总感觉有些神秘的「阿里乌斯小队」少女。\n\n并非有意为了隐藏面容，但除了吃饭和睡觉以外基本总是戴着面具生活。\n小队队长纱织称她为「公主」，但充满谜团的本人并不常谈到这点。",
-      "collectionBG": ""
+      "collectionBG": "BG_Arius_Collection"
     },
     "characterStats": {
       "minHP": 2751,
@@ -3511,7 +3511,7 @@
       "characterAge": "18岁",
       "birthday": "4月3日",
       "profileIntroduction": "百鬼夜行联合学院所属，因迎接夏天而娇艳绽放的「七罪人」之一的少女。\n\n她穿上泳装来到海边，只是为了让老师一看。她露出笑容，完全是为了和老师相见。\n无论在多么炎热的夏日阳光下，她都会以毫不逊色的热情袭向老师。\n和往常一样比任何人都更执着于恋心的少女·夏日版本。",
-      "collectionBG": ""
+      "collectionBG": "BG_Swimsuit02_Collection"
     },
     "characterStats": {
       "minHP": 2214,
@@ -3592,7 +3592,7 @@
       "characterAge": "16岁",
       "birthday": "9月1日",
       "profileIntroduction": "阿拜多斯高级中学所属，终于来到了海边，看上去很高兴的「对策委员会」一员。\n\n即便来到了如此游览地，她那总是关系大家的那份温柔也一往如常。\n虽说是题外话，愉快地度过了这次旅行后，她买了比平时买的还要多的各种东西。",
-      "collectionBG": ""
+      "collectionBG": "BG_Swimsuit02_Collection"
     },
     "characterStats": {
       "minHP": 2240,
@@ -3673,7 +3673,7 @@
       "characterAge": "17岁",
       "birthday": "1月2日",
       "profileIntroduction": "阿拜多斯高级中学所属，寻找悠闲夏日而来到了无人岛的「对策委员会」委员长。\n\n与觉得麻烦的态度相反，意外地好好做了准备。\n但其本人似乎没注意到自身变得比平时稍微更积极了。",
-      "collectionBG": ""
+      "collectionBG": "BG_Swimsuit02_Collection"
     },
     "characterStats": {
       "minHP": 2280,
@@ -3754,7 +3754,7 @@
       "characterAge": "15岁",
       "birthday": "12月16日",
       "profileIntroduction": "百鬼夜行联合学院所属，为了修行而来访海边的「忍术研究部」的少女。\n\n平时就充满活力，但也许是因为接收了夏日的能量，这次表现出了200%的活力。\n为了成为与夏日更相称的忍者，今天泉奈也要和主公一同尽情享受名为修行的夏日。",
-      "collectionBG": ""
+      "collectionBG": "BG_Swimsuit03_Collection"
     },
     "characterStats": {
       "minHP": 2371,
@@ -3835,7 +3835,7 @@
       "characterAge": "16岁",
       "birthday": "7月13日",
       "profileIntroduction": "百鬼夜行联合学院所属，在夏日阳光下也和往常一样呆呆的「阴阳部」电波系少女。\n\n也许是换上了泳装提升了偶像力（？）的缘故，关注她的粉丝们的叫喊有着毫不逊于夏日阳光的热情，但她本人对此毫不关心。\n今天千世也要和老师一同度过寻找闪闪发亮事物的充实夏日。",
-      "collectionBG": ""
+      "collectionBG": "BG_Swimsuit03_Collection"
     },
     "characterStats": {
       "minHP": 2223,
@@ -3911,7 +3911,7 @@
       "characterAge": "17岁",
       "birthday": "9月3日",
       "profileIntroduction": "阿里乌斯分校所属，在学园内被称为精英特种部队的「阿里乌斯小队」的队长。\n\n既有为达目的不择手段的冷彻一面，也有有时毫不掩饰自身激动情感的一面的少女。\n在游击战术方面是一骑绝尘的专家，但日常生活方面却是些许不谙世事。\n听说阿里乌斯小队的战斗力是她监督训练的成果。",
-      "collectionBG": ""
+      "collectionBG": "BG_Arius_Collection"
     },
     "characterStats": {
       "minHP": 2208,
@@ -3987,7 +3987,7 @@
       "characterAge": "15岁",
       "birthday": "8月5日",
       "profileIntroduction": "三一综合学园所属，性格逍遥的「放学后甜品部」的成员。\n\n不太表露自我，因此平时经常默默跟着其他部员。\n经常被卷入身边的奇特行为中受苦，但一方面来说又非常珍惜这一切。",
-      "collectionBG": ""
+      "collectionBG": "BG_Trinity_Collection"
     },
     "characterStats": {
       "minHP": 2231,
@@ -4063,7 +4063,7 @@
       "characterAge": "11岁",
       "birthday": "6月1日",
       "profileIntroduction": "山海经高级中学所属，担任训育支援部「梅花园」教官一职的1年级学生。\n\n本来应是上小学的年纪，因被认定拥有出色的学习能力而拥有了教官的权限。\n园里的学生们都满怀亲切地叫她「小心奈」，不过她并不怎么喜欢被这么叫。",
-      "collectionBG": ""
+      "collectionBG": "BG_Sanhaijing_Collection"
     },
     "characterStats": {
       "minHP": 2262,
@@ -4144,7 +4144,7 @@
       "characterAge": "17岁",
       "birthday": "11月13日",
       "profileIntroduction": "千年科学学园所属，迎接大运动会到来而换上了应援团长服的「工程部」部长。\n\n虽说只是匆忙接受的应援请求，作为有着尽善尽美风范的大师，她的热情比任何应援团都更为炽热。\n似乎偶尔会因为热情过头而忘记原本的目的……",
-      "collectionBG": ""
+      "collectionBG": "BG_Cheerleading_Collection"
     },
     "characterStats": {
       "minHP": 2471,
@@ -4220,7 +4220,7 @@
       "characterAge": "16岁",
       "birthday": "4月13日",
       "profileIntroduction": "千年科学学园所属，学生会「研讨会」的书记。\n\n主要工作是记录研讨会的决定事项和会议内容等事，也会承担对千年的学生开发的产品的专利进行鉴别和注册的专利代理人一职。\n记忆力极其卓越，似乎只要见闻过一次的内容就能几乎谙熟于心。",
-      "collectionBG": ""
+      "collectionBG": "BG_Millennium_Collection"
     },
     "characterStats": {
       "minHP": 2230,
@@ -4301,7 +4301,7 @@
       "characterAge": "16岁",
       "birthday": "3月14日",
       "profileIntroduction": "千年科学学园所属，为了参加晄轮大祭而换上了运动服的「研讨会」会计。\n\n因为千年主办的这一大型活动的准备工作而每天被成堆事务追着跑，在开幕式前日才在其他学生的照顾下得以睡了个够，回到了最佳状态。\n身为主办方的学生会干事兼实行委员的优香理性地参加了大会，但周围学校对得胜的热望似乎刺激了她的好强心。",
-      "collectionBG": ""
+      "collectionBG": "BG_Cheerleading_Collection"
     },
     "characterStats": {
       "minHP": 2756,
@@ -4382,7 +4382,7 @@
       "characterAge": "15岁",
       "birthday": "9月12日",
       "profileIntroduction": "三一综合学园所属，为了参加晄轮大祭而换上了运动服的「修女会」修女。\n\n听闻了祈祷基沃托斯和平的盛会——晄轮大祭一事，于是报名了实行委员一职，结果却不断发生争吵和纠纷。\n再加上生来就没法不顾他人的温柔性格的影响，让她一直被卷入各种麻烦事。",
-      "collectionBG": ""
+      "collectionBG": "BG_Cheerleading_Collection"
     },
     "characterStats": {
       "minHP": 2265,
@@ -4463,7 +4463,7 @@
       "characterAge": "16岁",
       "birthday": "1月22日",
       "profileIntroduction": "红冬联邦学园所属，现受到停学处分而在旧校舍「227号特别班」中反省的学生。\n\n停学的理由是「私自将酒精掺入配给用蜜饯饮」。\n和227号特别班的和香是儿时玩伴，据说因为她听说了和香因惩戒处分而前往了特别班后，特地闹了事。\n与事件的真相无关，她最喜欢自己亲自酿造的蜜饯饮，并总是把它装入便携威士忌瓶里随身携带。",
-      "collectionBG": ""
+      "collectionBG": "BG_Redwinter_Collection"
     },
     "characterStats": {
       "minHP": 2116,
@@ -4544,7 +4544,7 @@
       "characterAge": "16岁",
       "birthday": "1月6日",
       "profileIntroduction": "三一综合学园所属，迎接圣诞节到来换上了圣诞服的「救护骑士团」团员。\n\n为了在圣诞节举行的街头志愿活动，她换上了相称的服装。\n她边唱颂歌边发放自制礼物的样子，简直就像是在圣诞节降临的天使一样。",
-      "collectionBG": ""
+      "collectionBG": "BG_Holiday_Collection"
     },
     "characterStats": {
       "minHP": 2037,
@@ -4629,7 +4629,7 @@
       "characterAge": "17岁",
       "birthday": "3月1日",
       "profileIntroduction": "格黑娜学园所属，迎接新年到来而换上了和服的「美食研究会」会长。\n\n怀着穿着合乎时节也是美食探究的一环的信念，盛装行走在美食之路上。只看外表是一位无比优雅的小姐……但还是祈祷为她准备的食物能合她胃口吧。",
-      "collectionBG": ""
+      "collectionBG": "BG_NewYearFestival2"
     },
     "characterStats": {
       "minHP": 2147,
@@ -4705,7 +4705,7 @@
       "characterAge": "17岁",
       "birthday": "11月23日",
       "profileIntroduction": "三一综合学园所属，救护骑士团的团长。虽然她意志坚定又正直，但也是有着过激的一面的白衣战士。\n\n貌似整个圣三一都在流传着“美祢进行破坏，骑士团进行治疗”这样的关于救护骑士团的传闻。即使这样，她也有着通过整理自己的装备、邀请知己开办茶会这些事情治愈心灵的一面。另外，她对红茶的造诣也很深，能与委员会的莲见所匹敌。",
-      "collectionBG": ""
+      "collectionBG": "BG_Trinity_Collection"
     },
     "characterStats": {
       "minHP": 2726,
@@ -4781,7 +4781,7 @@
       "characterAge": "17岁",
       "birthday": "5月8日",
       "profileIntroduction": "三一综合学园所属，曾经是构成三一的学生联合其一「圣父」的领袖的少女。\n\n曾是「茶会」的一员，与茶会之首的渚是儿时玩伴。\n但由于政治上的对立立场，对此不得已公私分明。\n总是很开心地笑着，看上去天真无邪，但似乎在内心里也有着无法向他人倾诉的烦恼。",
-      "collectionBG": ""
+      "collectionBG": "BG_Trinity_Collection"
     },
     "characterStats": {
       "minHP": 2461,
@@ -4857,7 +4857,7 @@
       "characterAge": "17岁",
       "birthday": "4月25日",
       "profileIntroduction": "ゲヘナ学園所属、温泉開発部の心臓であり、開発現場の作業班長。\n\nすべての問題事を「撤去する」ことで解決できると心の底から信じている。豪快で竹を割ったような性格、抜群の撤去能力で温泉開発部員から厚い信頼を得ている。",
-      "collectionBG": ""
+      "collectionBG": "BG_Gehenna_Collection"
     },
     "characterStats": {
       "minHP": 2149,
@@ -4933,7 +4933,7 @@
       "characterAge": "17岁",
       "birthday": "10月4日",
       "profileIntroduction": "三一综合学园所属，「修女会」的虔诚学生。\n\n对任何事都认真面对，因此深受许多学生信赖。\n也因为认真过头而与流行和常识脱节。",
-      "collectionBG": ""
+      "collectionBG": "BG_Trinity_Collection"
     },
     "characterStats": {
       "minHP": 2247,
@@ -5014,7 +5014,7 @@
       "characterAge": "16岁",
       "birthday": "8月16日",
       "profileIntroduction": "千年科学学园所属，秘密组织「C&C」的第5位特工。\n\n虽说是C&C所属，迄今为止却都是作为莉音的专属女仆兼贴身警卫活动，因此基本没几个人知道她的长相。\n使用高科技武器与技术战斗的优秀特工。\n以前以单独行动为主，但实际上也有容易感到寂寞的一面。",
-      "collectionBG": ""
+      "collectionBG": "BG_Millennium_Collection"
     },
     "characterStats": {
       "minHP": 2236,
@@ -5090,7 +5090,7 @@
       "characterAge": "15岁",
       "birthday": "2月14日",
       "profileIntroduction": "千年科学学园所属，学生会「研讨会」中经常惹麻烦的天才少女。\n\n拥有跟密码学解密方面相关的异禀天赋，不过她本人毫无自知。\n同时，她喜欢与自己无法控制的命运密切相关的要素，并以各种各样的方法测试自己的命运。\n即使碰上苦难也不放弃。",
-      "collectionBG": ""
+      "collectionBG": "BG_Millennium_Collection"
     },
     "characterStats": {
       "minHP": 2141,
@@ -5171,7 +5171,7 @@
       "characterAge": "18岁",
       "birthday": "3月17日",
       "profileIntroduction": "格黑娜学园所属，迎接新年到来的「便利屋68」课长。\n\n本应是迎接新年到来，和其他成员一样进行了盛装打扮，但简直就像是平时就一直穿着一样，举手投足之间毫无生硬感。\n虽说仍对骚动感到麻烦，若是为了便利屋68的话仍会出谋献策。",
-      "collectionBG": ""
+      "collectionBG": "BG_Newyear_Collection"
     },
     "characterStats": {
       "minHP": 2133,
@@ -5247,7 +5247,7 @@
       "characterAge": "17岁",
       "birthday": "10月9日",
       "profileIntroduction": "百鬼夜行联合学院所属，「阴阳部」的副部长兼观光文化产业宣传支援部的战略领袖。\n\n比任何人都更热爱百鬼夜行的文化，更关心创造百鬼夜行文化的学生的少女。\n正因如此，也有一部分百鬼夜行的学生称她为「比部长还像部长的果穗」。\n顺带一提，她似乎还是阴阳部内难得的正常人。",
-      "collectionBG": ""
+      "collectionBG": "BG_Hyakkiyako_Collection"
     },
     "characterStats": {
       "minHP": 2235,
@@ -5328,7 +5328,7 @@
       "characterAge": "??岁",
       "birthday": "3月25日",
       "profileIntroduction": "千年科学学园所属，发生种种事情而换上了女仆装的「游戏开发部」成员。\n\n还是和以前一样不太适应女仆装，但看样子每天都在为了克服这一点成为独当一面的女仆勇者而修行中。",
-      "collectionBG": ""
+      "collectionBG": "BG_OldHouseOutside_Collection"
     },
     "characterStats": {
       "minHP": 2224,
@@ -5409,7 +5409,7 @@
       "characterAge": "16岁",
       "birthday": "8月16日",
       "profileIntroduction": "既然是潜入作战的话，当然得继续信仰兔女郎装。\n千年科学学园所属，秘密组织「C&C」的特工。\n\n也许是因为平时的特殊立场，并不是特别有机会接受到潜入任务，因此似乎比平时有些更加紧张。\n内心对能完成与C&C的前辈同样的任务而感到高兴，但其本人却故作镇静。",
-      "collectionBG": ""
+      "collectionBG": "BG_BunnyGirl_Collection"
     },
     "characterStats": {
       "minHP": 2225,
@@ -5485,7 +5485,7 @@
       "characterAge": "15岁",
       "birthday": "5月31日",
       "profileIntroduction": "三一综合学园所属，在三一到处出没维持治安的「三一自警团」成员。\n\n有时会因为净说些说不到点上的事而被当作恶意通报，但实际上比任何人都更认真地进行自警团的活动。\n每次讲报上名号的开场白时似乎都有些不同。",
-      "collectionBG": ""
+      "collectionBG": "BG_Trinity_Collection"
     },
     "characterStats": {
       "minHP": 2722,
@@ -5561,7 +5561,7 @@
       "characterAge": "17岁",
       "birthday": "3月5日",
       "profileIntroduction": "山海経高級中学校所属、グルメ街「玄武商会」の会長。\n\n平凡な商店街だった玄武商会をキヴォトス屈指のグルメ街へと成長させた卓越した運営能力を持つ。独自勢力の成長を警戒する山海経の生徒会からは目の敵にされているが、ルミ本人は商会を発展させる以外のことには興味がない模様。",
-      "collectionBG": ""
+      "collectionBG": "BG_Sanhaijing_Collection"
     },
     "characterStats": {
       "minHP": 2355,
@@ -5637,7 +5637,7 @@
       "characterAge": "16岁",
       "birthday": "9月9日",
       "profileIntroduction": "山海经高级中学所属，学生会「玄龙门」的执行部长兼学生会长的护卫。\n\n与看上去沉着冷彻的外表印象相反，实际上是个老暗黑电影的重度爱好者。\n憧憬电影里演的那样帅气的画面和台词。\n经常因为耍帅说出电影一样的台词而碰钉子，但「玄龙门」的成员对此似乎并不在意。",
-      "collectionBG": ""
+      "collectionBG": "BG_Sanhaijing_Collection"
     },
     "characterStats": {
       "minHP": 1904,
@@ -5718,7 +5718,7 @@
       "characterAge": "15岁",
       "birthday": "1月7日",
       "profileIntroduction": "SRT特殊学园所属，为执行潜入作战而到访渔村的「RABBIT小队」小队长。\n\n为了能够调查便利店的便当里的虾消失的原因而换上了泳装。\n尽管潜入目的地的渔村是个与观光相差甚远的地方，她唯有可爱的泳装不愿谦让。",
-      "collectionBG": ""
+      "collectionBG": "BG_FishingVillage2_Collection"
     },
     "characterStats": {
       "minHP": 2872,
@@ -5799,7 +5799,7 @@
       "characterAge": "15岁",
       "birthday": "4月9日",
       "profileIntroduction": "SRT特殊学园所属，为执行潜入作战而到访渔村的「RABBIT小队」尖兵（侦察兵）。\n\n正如她重视原则的作风，即使是潜入作战也在包里装了战斗需要的装备。\n换上了泳装，认真的地方也没有变。",
-      "collectionBG": ""
+      "collectionBG": "BG_FishingVillage2_Collection"
     },
     "characterStats": {
       "minHP": 1896,
@@ -5880,7 +5880,7 @@
       "characterAge": "17岁",
       "birthday": "4月23日",
       "profileIntroduction": "三一综合学园所属，前往遗迹进行调查的「图书委员会」委员长。\n\n不善于外出活动身体，但仍为了对古书、遗迹和遗物的喜爱而专心致力于调查本身中。",
-      "collectionBG": ""
+      "collectionBG": "BG_WaterFall"
     },
     "characterStats": {
       "minHP": 2026,
@@ -5961,7 +5961,7 @@
       "characterAge": "16岁",
       "birthday": "1月3日",
       "profileIntroduction": "三一综合学园所属，迎接夏日到来而来到了无人岛的「补课部」女孩。\n\n装束多少有些大胆，但试探一般人时的言行却很缄默，会坦诚地对对方敞开心扉。",
-      "collectionBG": ""
+      "collectionBG": "BG_WaterFall"
     },
     "characterStats": {
       "minHP": 2243,
@@ -6037,7 +6037,7 @@
       "characterAge": "16岁",
       "birthday": "12月21日",
       "profileIntroduction": "レッドウィンター連邦学園所属、図書委員会「知識解放戦線」の一人。\n\n同じ知識解放戦線であるモミジと違って、二次創作を楽しむだけでなく自らも創作をしている。ハンドルネームは「メルリー」。仲が良さそうな、あるいは悪そうな生徒同士の関係にインスピレーションを受ける事が多く、所謂ナマモノ同人をしている。仇敵関係にあるトリニティ、ゲヘナの生徒もメルの「創作対象」であり、よく描かれるため、メルの悪名は学園外にも轟いている。",
-      "collectionBG": ""
+      "collectionBG": "BG_Redwinter_Collection"
     },
     "characterStats": {
       "minHP": 2068,
@@ -6113,7 +6113,7 @@
       "characterAge": "15岁",
       "birthday": "12月31日",
       "profileIntroduction": "大運動会でみんなを応援するべく、チア服に着替えたミレニアムサイエンススクール所属、エンジニア部の部員。\n\n元気良く明るい声で応援をする間も、いつもの説明や解説は欠かさない。",
-      "collectionBG": ""
+      "collectionBG": "BG_Cheerleading_Collection"
     },
     "characterStats": {
       "minHP": 2242,
@@ -6189,7 +6189,7 @@
       "characterAge": "16岁",
       "birthday": "11月11日",
       "profileIntroduction": "三一综合学园所属，表情总是很和气的「正义实现委员会」的一员。\n\n在有着各种各样学生的正义实现委员会中主要负责调解一职。和其他学园的关系也相对较好。\n待人友善的性格不是天生而是努力的馈赠。",
-      "collectionBG": ""
+      "collectionBG": "BG_Trinity_Collection"
     },
     "characterStats": {
       "minHP": 2223,
@@ -6265,7 +6265,7 @@
       "characterAge": "16岁",
       "birthday": "5月24日",
       "profileIntroduction": "格黑娜学园所属，「温泉开发部」的部长。\n\n主张有泉眼的土地必须全部开发成温泉，一旦下定决心的话无论在哪都会不择手段地进行爆破。\n尽管赢来了部员们的全面支持，实际上的言行、行为和通缉犯没两样。",
-      "collectionBG": ""
+      "collectionBG": "BG_Gehenna_Collection"
     },
     "characterStats": {
       "minHP": 2153,
@@ -6341,7 +6341,7 @@
       "characterAge": "14岁",
       "birthday": "5月2日",
       "profileIntroduction": "常盘台中学所属的女初中生。\n\n在有着大量超能力者的「学园都市」中也仅有7人的顶级超能力者「Level5」之一。\n使用的超能力是能够自由操纵强力电气的「电击使（Electromaster）」。\n但自从转移到基沃托斯后就不能再像以前一样随意地施展自己的能力了。\n性格和蔼，对任何人都以坦率的言语相待，因此受到其他学生的亲近。\n青蛙角色「呱太」的粉丝。",
-      "collectionBG": ""
+      "collectionBG": "BG_BigPlaza_Collection"
     },
     "characterStats": {
       "minHP": 2149,
@@ -6417,7 +6417,7 @@
       "characterAge": "14岁",
       "birthday": "-",
       "profileIntroduction": "常盘台中学所属的充满优雅的女初中生。\n\n在常盘台中学这一名校中也是统率最大派系的强者，还是学园都市中仅有7人的超能力者「Level5」之一。\n使用的超能力是能够操控他人精神的「心理掌控（Mentalout）」。但自从转移到基沃托斯后就不能再像以前一样随意地施展自己的能力了。\n实际上稍微不擅长与自己能力无法生效的同为「Level5」的超能力者——御坂美琴相处。",
-      "collectionBG": ""
+      "collectionBG": "BG_BigPlaza_Collection"
     },
     "characterStats": {
       "minHP": 2044,
@@ -6493,7 +6493,7 @@
       "characterAge": "15岁",
       "birthday": "6月16日",
       "profileIntroduction": "百鬼夜行联合学院所属，「百花缭乱纷争调解委员会」的1年级学生。\n\n正统勘解由小路家的继承人。\n比起继承家业，选择了加入憧憬的百花缭乱的少女。\n以身为百花缭乱的一员而自豪，有行动力。\n偶尔会有受挫的时候，但也有着马上能重整旗鼓的强大内心。\n尊敬前辈，其中最为敬仰名草。",
-      "collectionBG": ""
+      "collectionBG": "BG_Hyakkiyako_Collection"
     },
     "characterStats": {
       "minHP": 2236,
@@ -6569,7 +6569,7 @@
       "characterAge": "16岁",
       "birthday": "7月23日",
       "profileIntroduction": "百鬼夜行联合学院所属，「百花缭乱纷争调解委员会」的突击队长。\n\n性格重情重义。很重视自己的后辈，但也因作为百花缭乱教官指导时完全不放水而被称作鬼教官。\n对进入百花缭乱这一事本身并不后悔，但对能否歌颂青春这一事感到不安。\n也许是因为这一反作用，让她一直追求漫画、小说中描述的那种青春。\n今天也为了命运的相遇而挺起胸膛，埋头训练的幻想少女。",
-      "collectionBG": ""
+      "collectionBG": "BG_Hyakkiyako_Collection"
     },
     "characterStats": {
       "minHP": 2223,
@@ -6645,7 +6645,7 @@
       "characterAge": "16岁",
       "birthday": "8月8日",
       "profileIntroduction": "百鬼夜行联合学院所属，「百花缭乱纷争调解委员会」的作战参谋。\n\n注重常识、逻辑与理性的少女。作为作战参谋而言重视胜利，但比这更重视的是我方的安全。\n冷酷却又温柔的少女。",
-      "collectionBG": ""
+      "collectionBG": "BG_Hyakkiyako_Collection"
     },
     "characterStats": {
       "minHP": 2132,
@@ -6726,7 +6726,7 @@
       "characterAge": "17岁",
       "birthday": "1月5日",
       "profileIntroduction": "千年科学学园所属，应对寒冬而换上了温暖装束的「真理会」成员。\n\n本没有外出的打算，但因为有着能录下平时难以录到的环境音的机会而积极投入。\n喜欢所有能在自然环境录到的声音，但似乎最喜欢的还是老师的声音。",
-      "collectionBG": ""
+      "collectionBG": "BG_CampSite_Collection"
     },
     "characterStats": {
       "minHP": 2128,
@@ -6807,7 +6807,7 @@
       "characterAge": "16岁",
       "birthday": "4月19日",
       "profileIntroduction": "千年科学学园所属，应对寒冬而换上了温暖装束的「真理会」成员。\n\n久违的外出前往的却是几乎没信号的露营地，看上去比平时更没精神。\n室外的不便之处大多都能忍耐，但唯有喝能量饮料一事绝不妥协。",
-      "collectionBG": ""
+      "collectionBG": "BG_CampSite_Collection"
     },
     "characterStats": {
       "minHP": 2214,
@@ -6892,7 +6892,7 @@
       "characterAge": "17岁",
       "birthday": "2月19日",
       "profileIntroduction": "格黑娜学园所属，为参加宴会而换上了礼服的「风纪委员会」委员长。\n\n是个基本上觉得什么事都很麻烦的少女，但自从听说了老师对格黑娜的宴会很是期待这一消息后，变得比平时更有干劲。\n从决定了要在老师面前演奏的那一天起，似乎就已经比平时更为投入生疏钢琴的练习之中。",
-      "collectionBG": ""
+      "collectionBG": "BG_GehennaPartyRoom_Collection"
     },
     "characterStats": {
       "minHP": 1963,
@@ -6973,7 +6973,7 @@
       "characterAge": "17岁",
       "birthday": "12月22日",
       "profileIntroduction": "格黑娜学园所属，「风纪委员会」的行政官，同时也是对风纪委员长日奈而言秘书般的存在。\n\n为了在格黑娜的宴会上也能辅佐日奈而换上了礼服。\n因平日里一丝不苟的工作表现而受到许多风纪委员的尊敬。\n这次准备要以完美特工的身份进行活动……亚子如此自信满满地说道。",
-      "collectionBG": ""
+      "collectionBG": "BG_GehennaPartyRoom_Collection"
     },
     "characterStats": {
       "minHP": 2025,
@@ -7054,7 +7054,7 @@
       "characterAge": "16岁",
       "birthday": "4月1日",
       "profileIntroduction": "千禧年科技的秘密组织——“C&C”的特工。\n\n她的代号为03，专门负责“清洁”。\n她常利用自己给人的温柔印象来潜入敌营，用炸药将敌营清扫干净，因此得名“清扫达人”。",
-      "collectionBG": ""
+      "collectionBG": "BG_Millennium_Collection"
     },
     "characterStats": {
       "minHP": 2208,
@@ -7135,7 +7135,7 @@
       "characterAge": "16岁",
       "birthday": "7月13日",
       "profileIntroduction": "隶属于百鬼夜行阴阳部的电波系少女。\n\n由于非常喜欢俳句这一类的传统文化，加入了阴阳部。\n其外貌和气质散发出一种特殊的神秘感，所以是百鬼夜行女生们憧憬的对象，但本人对此几乎毫不知情。",
-      "collectionBG": ""
+      "collectionBG": "BG_Hyakkiyako_Collection"
     },
     "characterStats": {
       "minHP": 2256,
@@ -7211,7 +7211,7 @@
       "characterAge": "17岁",
       "birthday": "12月9日",
       "profileIntroduction": "歌赫娜美食研究会的成员。\n\n虽然看起来很柔弱，但却是个十足的大胃王，从未错失过基沃托斯举办的美食大赛的冠军，是个非常优秀的美食斗士。\n平时都很温和善良，不过毕竟是来自盛产淘气鬼的歌赫\n娜，她也非常喜欢搞恶作剧整蛊别人。",
-      "collectionBG": ""
+      "collectionBG": "BG_Gehenna_Collection"
     },
     "characterStats": {
       "minHP": 2252,
@@ -7292,7 +7292,7 @@
       "characterAge": "17岁",
       "birthday": "12月12日",
       "profileIntroduction": "崔尼蒂正义实现部的二号人物。\n\n她代替疯狂的象征——部长鹤城，担任正义实现部的战术指挥官。虽然看起来冷静且知性，但她确实也是正义实现部的一员。\n比谁都冷静沉着的她，有时也会乱来。",
-      "collectionBG": ""
+      "collectionBG": "BG_Trinity_Collection"
     },
     "characterStats": {
       "minHP": 2256,
@@ -7373,7 +7373,7 @@
       "characterAge": "16岁",
       "birthday": "9月1日",
       "profileIntroduction": "阿拜多斯对策委员会的成员。\n\n她心思细腻性格温柔，因此能让其他我行我素的对策委员会成员团结在身边，是所有人的精神支柱。\n虽然看起来很低调，但似乎很有钱，对策委员会大部分的零食费都是她从自己的零花钱中拿出的。",
-      "collectionBG": ""
+      "collectionBG": "BG_Abydos_Collection"
     },
     "characterStats": {
       "minHP": 2264,
@@ -7454,7 +7454,7 @@
       "characterAge": "18岁",
       "birthday": "3月17日",
       "profileIntroduction": "便利屋68的课长。\n\n和便利屋68的其他成员不同的是，她其实很善良，但由于脸上一副与生俱来的凶相，经常被别人误会成不良少女。\n佳代子一贯以沉默的态度对待这些误解，但此举反而让人们认定了她就是个可怕的人。",
-      "collectionBG": ""
+      "collectionBG": "BG_Gehenna_Collection"
     },
     "characterStats": {
       "minHP": 2272,
@@ -7535,7 +7535,7 @@
       "characterAge": "16岁",
       "birthday": "7月29日",
       "profileIntroduction": "便利屋68的行动队长兼突击队长。\n\n与多少能感觉到罪恶感的爱露不同，她喜欢肆无忌惮地作恶、惹是生非，是个小恶魔般的少女。\n她和爱露是老朋友，所以爱露装腔作势她一眼就能看\n穿，但并不会特意去照顾她。",
-      "collectionBG": ""
+      "collectionBG": "BG_Gehenna_Collection"
     },
     "characterStats": {
       "minHP": 2259,
@@ -7611,7 +7611,7 @@
       "characterAge": "15岁",
       "birthday": "12月27日",
       "profileIntroduction": "歌赫娜美食研究会成员，是个挑剔的大胃王。\n\n研究会的其他成员大多喜欢吃黑暗料理或者暴饮暴食，但她更喜欢享受正常的美食。不过，一旦眼前有非常美味的食物，就会失去理智。",
-      "collectionBG": ""
+      "collectionBG": "BG_Gehenna_Collection"
     },
     "characterStats": {
       "minHP": 2264,
@@ -7692,7 +7692,7 @@
       "characterAge": "15岁",
       "birthday": "6月25日",
       "profileIntroduction": "阿拜多斯对策委员会细心的会计。\n\n爱唠叨，并且会毫无顾忌地流露出自己的感情。\n“这种学院，怎么还不破产！”是她的口头禅，但其实她为了解决阿拜多斯欠下的债务正在偷偷打工，可以说对阿拜多斯的感情很深。",
-      "collectionBG": ""
+      "collectionBG": "BG_Abydos_Collection"
     },
     "characterStats": {
       "minHP": 2192,
@@ -7768,7 +7768,7 @@
       "characterAge": "16岁",
       "birthday": "2月3日",
       "profileIntroduction": "百鬼夜行修行部部长。\n\n平时专注的修行是“更舒适和更完美的睡眠”。\n修行的成果是，她可以做到坐着、站着，甚至吃饭的时候睡觉。\n于是，大家都叫她睡美人。\n别看她平时爱打瞌睡，一到夜晚她就会为了守护街区的和平而悄悄活跃起来。",
-      "collectionBG": ""
+      "collectionBG": "BG_Hyakkiyako_Collection"
     },
     "characterStats": {
       "minHP": 3048,
@@ -7849,7 +7849,7 @@
       "characterAge": "16岁",
       "birthday": "3月14日",
       "profileIntroduction": "在千禧年科技的理事会——“研讨会”中担任着会计要职。\n\n即使是在理科生众多的千禧年科技，她也是其中屈指可数的数学天才，全权管理着千禧年的各类预算。\n特长是使用算盘。每当思绪复杂或内心纠结时，她都会以拨弄算珠的方式来平复心态。",
-      "collectionBG": ""
+      "collectionBG": "BG_Millennium_Collection"
     },
     "characterStats": {
       "minHP": 2997,
@@ -7925,7 +7925,7 @@
       "characterAge": "15岁",
       "birthday": "12月8日",
       "profileIntroduction": "千禧年游戏开发部的编剧。\n\n她和双胞胎妹妹绿一起在游戏开发部开发游戏。\n活泼开朗的她和性格谨慎的妹妹原本关系不太好，但两个人因热爱游戏而意气相投，现在成了最好的挚友。",
-      "collectionBG": ""
+      "collectionBG": "BG_Millennium_Collection"
     },
     "characterStats": {
       "minHP": 2310,
@@ -8001,7 +8001,7 @@
       "characterAge": "15岁",
       "birthday": "10月22日",
       "profileIntroduction": "瓦尔基丽生活安全局的热血警校生。\n\n憧憬着维持联合都市治安的前辈们的英姿，进入了瓦尔基丽，但因枪法太差，又被迫调到了生活安全局的闲职。\n不过她仍然没有放弃成为警员，帅气地制服罪犯的梦想，仍在各个方面坚持努力。",
-      "collectionBG": ""
+      "collectionBG": "BG_Valkyrie_Collection"
     },
     "characterStats": {
       "minHP": 2035,
@@ -8077,7 +8077,7 @@
       "characterAge": "15岁",
       "birthday": "8月7日",
       "profileIntroduction": "红冬联邦学园所属，「知识解放战线」的文学少女。\n\n与为了面包与零食而战的其他红冬学生不同，她为了图书馆添置更多藏书而战。\n相当纯粹的御宅族，向事务局提交的图书购入申请大多都是出于一己私欲。\n因此，绝大部分的申请都被驳回，即使这样她也没有放弃，不断申请。",
-      "collectionBG": ""
+      "collectionBG": "BG_Redwinter_Collection"
     },
     "characterStats": {
       "minHP": 2219,
@@ -8153,7 +8153,7 @@
       "characterAge": "15岁",
       "birthday": "5月13日",
       "profileIntroduction": "歌赫娜所属，便利屋68的普通社员。\n\n因为性格阴沉，从小就一直被欺负，直到最近才在爱露的帮助下得以逃脱。之后便在便利屋68以小跟班的身份活动。\n虽然她腼腆且自尊心低下，但说不定她的思维方式在所有社员中是最可怕的?",
-      "collectionBG": ""
+      "collectionBG": "BG_Gehenna_Collection"
     },
     "characterStats": {
       "minHP": 3033,
@@ -8234,7 +8234,7 @@
       "characterAge": "17岁",
       "birthday": "3月24日",
       "profileIntroduction": "千禧年科技的秘密组织——C&C的特工。\n\n她的代号为01，凭借卓越的动物本能和直觉解决了众多问题，经验丰富。\n虽然在执行任务的过程中经常会做出一些让人无法理解的行为，比如因为信任别人暴露了身份，或者是将可疑的东西全部打碎之类，但最后的结果却一直都很不错。",
-      "collectionBG": ""
+      "collectionBG": "BG_Millennium_Collection"
     },
     "characterStats": {
       "minHP": 2309,
@@ -8310,7 +8310,7 @@
       "characterAge": "15岁",
       "birthday": "12月31日",
       "profileIntroduction": "千禧年科技工程部的成员。\n\n是一个喜欢和别人聊物理学或者机械原理的话痨。在千禧年只要发生与机器相关的问题，她就会第一时间到达现场进行讲解。",
-      "collectionBG": ""
+      "collectionBG": "BG_Millennium_Collection"
     },
     "characterStats": {
       "minHP": 2262,
@@ -8386,7 +8386,7 @@
       "characterAge": "16岁",
       "birthday": "8月31日",
       "profileIntroduction": "保护崔尼蒂安全的自警团成员。\n\n因为崔尼蒂的学员频繁被其他人袭击，为阻止这种情况，她自愿进行街头巡逻。\n充满正义感，所以常被别人误会成是不讲情面的人，其实她也有很温柔的一面。",
-      "collectionBG": ""
+      "collectionBG": "BG_Trinity_Collection"
     },
     "characterStats": {
       "minHP": 2281,
@@ -8462,7 +8462,7 @@
       "characterAge": "17岁",
       "birthday": "11月3日",
       "profileIntroduction": "因为憧憬着侠客而加入百鬼夜行的少女。\n\n性格爽朗，帮助别人会让她感到快乐。\n但她对于侠客的了解全都是来自电影，所以和真实的侠客有很多出入。 \n坚持着自己的侠客梦想，是一个勇往直前的少女。",
-      "collectionBG": ""
+      "collectionBG": "BG_Hyakkiyako_Collection"
     },
     "characterStats": {
       "minHP": 2305,
@@ -8543,7 +8543,7 @@
       "characterAge": "17岁",
       "birthday": "6月24日",
       "profileIntroduction": "来到夏日海滩寻找青春浪漫的崔尼蒂正义实现部部长。\n\n为了享受难得的暑假，正努力克制自己作为崔尼蒂战略兵器暴力的一面，试着享受青春……可惜在夏日海滩发生的事情，却和她预想的有些不同。",
-      "collectionBG": ""
+      "collectionBG": "BG_Swimsuit_Collection"
     },
     "characterStats": {
       "minHP": 2536,
@@ -8624,7 +8624,7 @@
       "characterAge": "16岁",
       "birthday": "5月11日",
       "profileIntroduction": "歌赫娜学院美食研究会所属，就算是在炎炎夏日也能保持绝佳胃口的少女。\n\n为了寻找夏天的美食，她带着装有西瓜的冷柜，来到了基沃托斯的海边。巧克力烤鳗鱼、变态辣刨冰、加了薄荷巧克力的西瓜，少女寻找着这些季节特色菜品。她对美食的那份热情，绝不输夏日的骄阳与酷暑。",
-      "collectionBG": ""
+      "collectionBG": "BG_Swimsuit_Collection"
     },
     "characterStats": {
       "minHP": 2160,
@@ -8700,7 +8700,7 @@
       "characterAge": "17岁",
       "birthday": "11月10日",
       "profileIntroduction": "红冬事务局的秘书、切里诺会长的亲信。\n\n她是个演讲达人，不管是什么话经她一说，都被包装得头头是道。为了鼓吹对切里诺会长的忠心，会定期在红冬举行演讲。切里诺坚信巴是受自己的领袖魅力感染，才会这么忠于自己。但其实巴只是盲目地觉得切里诺可爱而已。",
-      "collectionBG": ""
+      "collectionBG": "BG_Redwinter_Collection"
     },
     "characterStats": {
       "minHP": 2139,
@@ -8776,7 +8776,7 @@
       "characterAge": "15岁",
       "birthday": "10月21日",
       "profileIntroduction": "瓦尔基丽警员学院所属，生活安全局的悠闲行政人员。向往着悠闲自在的办公室生活而加入了瓦尔基丽。总是摸鱼应付生活安全局接到的案件，享受着不为名利所动的悠闲生活。最大的爱好是边吃甜甜圈边听广播。",
-      "collectionBG": ""
+      "collectionBG": "BG_Valkyrie_Collection"
     },
     "characterStats": {
       "minHP": 2229,
@@ -8852,7 +8852,7 @@
       "characterAge": "17岁",
       "birthday": "2月22日",
       "profileIntroduction": "百鬼夜行联合学院所属，基本上总是充满迷之自信的「忍术研究部」部长。\n\n无论电影、动画还是周边都喜欢的忍者御宅族，对这一切的中毒加深而成立了「忍术研究部」，还创建了动画频道「少女忍法帖小满」。\n为了让基沃托斯全境都了解忍者之好，她今天也在和忍术研究部的部员们一起东奔西走。",
-      "collectionBG": ""
+      "collectionBG": "BG_Hyakkiyako_Collection"
     },
     "characterStats": {
       "minHP": 2223,
@@ -8933,7 +8933,7 @@
       "characterAge": "15岁",
       "birthday": "4月2日",
       "profileIntroduction": "千年科学学园所属，迎接大运动会而换上了应援团服的「工程部」成员。\n\n发挥由平时Cosplay兴趣培养而出的缝纫技能做出了工程部成员穿着的服装。\n以及，也许由于应援团服是把以前做的那套重制的缘故，似乎很在意裙子的长度。",
-      "collectionBG": ""
+      "collectionBG": "BG_Cheerleading_Collection"
     },
     "characterStats": {
       "minHP": 2125,
@@ -9014,7 +9014,7 @@
       "characterAge": "17岁",
       "birthday": "12月12日",
       "profileIntroduction": "三一综合学园所属，为了参加晄轮大祭而换上了运动服的「正义实现委员会」副委员长。\n\n代替不擅长对外事务的鹤城担任了实行委员一职。\n即便是身处会场快活的空气中，她也在尽力冷静地尽到身为执行委员会的职责……但出现得歇都不带歇一下的不良学生和从小吃摊飘来的美味诱惑让她甚是苦恼。",
-      "collectionBG": ""
+      "collectionBG": "BG_Cheerleading_Collection"
     },
     "characterStats": {
       "minHP": 2219,
@@ -9090,7 +9090,7 @@
       "characterAge": "15岁",
       "birthday": "12月27日",
       "profileIntroduction": "格黑娜学园所属，为了迎接新年换上和服的美食研究会的部员。\n\n为了享用新年料理，纯子换上了一身新装。但是吃饭的时候不知道为什么总会被打扰的体质没有任何改变。",
-      "collectionBG": ""
+      "collectionBG": "BG_NewYearFestival2"
     },
     "characterStats": {
       "minHP": 2204,
@@ -9171,7 +9171,7 @@
       "characterAge": "15岁",
       "birthday": "4月16日",
       "profileIntroduction": "三一综合学园所属，为了能监视老师而来到了无人岛的「补课部」一员。\n\n作为正义实现委员会的一员，绝不允许有伤风纪事物的存在！\n虽说有着这样的使命感，她觉得在这座岛上度过的假期也不赖。",
-      "collectionBG": ""
+      "collectionBG": "BG_WaterFall"
     },
     "characterStats": {
       "minHP": 2124,
@@ -9247,7 +9247,7 @@
       "characterAge": "11岁",
       "birthday": "4月14日",
       "profileIntroduction": "格黑娜学园所属，「万魔殿」的议员兼吉祥物少女。\n\n原本是从属格黑娜学园初等部，因能力得到认可而加入了在格黑娜学园里也只有优秀的学生才能进入的「万魔殿」。\n在「万魔殿」当中最为年幼，但因为自身那真诚的可爱而受到大家的宠爱。正如所说的这一点，为了不给前辈们添麻烦，今天这位品行端正的女孩子也在努力。",
-      "collectionBG": ""
+      "collectionBG": "BG_Gehenna_Collection"
     },
     "characterStats": {
       "minHP": 2127,
@@ -9328,7 +9328,7 @@
       "characterAge": "15岁",
       "birthday": "4月2日",
       "profileIntroduction": "千禧年科技的工程部成员。\n\n相比其他女生，她不太善于交际，也不擅长说话，但凭借与生俱来的工程学才能，总是能发明出各种神奇的东西。\n她的大多数发明都是无可挑剔的杰作，但总是会加入一个奇怪的功能，让用户感到困惑。",
-      "collectionBG": ""
+      "collectionBG": "BG_Millennium_Collection"
     },
     "characterStats": {
       "minHP": 2237,
@@ -9409,7 +9409,7 @@
       "characterAge": "16岁",
       "birthday": "2月2日",
       "profileIntroduction": "千禧年科技的秘密组织——“C&C”的特工。\n\n她的代号为02，负责利用强大的火力在后方进行支援。\n虽然她的外貌看上去有些咄咄逼人，但其实在所有C&C特工中行事风格最为慎重，作战中时常为了阻止明日奈或者茜的暴走而苦恼。",
-      "collectionBG": ""
+      "collectionBG": "BG_Millennium_Collection"
     },
     "characterStats": {
       "minHP": 2314,
@@ -9490,7 +9490,7 @@
       "characterAge": "16岁",
       "birthday": "1月3日",
       "profileIntroduction": "山海经的天才发明家。\n\n她早在上小学的时候就拿到了六个学位，是个天才。但比起天才这个绰号，她更为人熟知的形象是一个令人头疼、爱惹是生非的捣蛋精。\n和她一起生活的老鼠“鼠鼠”是从小就一起长大的伙伴。对纱绫来说，这只老鼠就是她珍贵的家人。",
-      "collectionBG": ""
+      "collectionBG": "BG_Sanhaijing_Collection"
     },
     "characterStats": {
       "minHP": 2288,
@@ -9571,7 +9571,7 @@
       "characterAge": "15岁",
       "birthday": "6月5日",
       "profileIntroduction": "隶属于崔尼蒂的正义实现部，是个耿直的成员。\n\n随身携带着比自己还高的巨型狙击枪，默默执行火力支援任务。\n虽然不爱说话，但并不认生，人际关系也不错。只要提及关于正义的话题，就会变成话痨。",
-      "collectionBG": ""
+      "collectionBG": "BG_Trinity_Collection"
     },
     "characterStats": {
       "minHP": 2250,
@@ -9652,7 +9652,7 @@
       "characterAge": "15岁",
       "birthday": "6月5日",
       "profileIntroduction": "性格耿直的正义实现部成员，跟随鹤城部长来到了夏日的海边。\n\n在别人为了留下夏天的回忆而玩耍的时候，真白依然没有停止训练。因为她坚信这样才是正义。",
-      "collectionBG": ""
+      "collectionBG": "BG_Swimsuit_Collection"
     },
     "characterStats": {
       "minHP": 1982,
@@ -9733,7 +9733,7 @@
       "characterAge": "16岁",
       "birthday": "11月27日",
       "profileIntroduction": "崔尼蒂补习部的成员，与朋友一起来到海边的多愁善感的少女。\n\n为了从未见过大海的朋友，试图偷偷借走崔尼蒂的坦克，但被正义实现部发现后卷入了巨大麻烦中。驾驶坦克时也会因为马马虎虎的性子而惹出麻烦，比如不小心突然加速之类的。",
-      "collectionBG": ""
+      "collectionBG": "BG_Swimsuit_Collection"
     },
     "characterStats": {
       "minHP": 2164,
@@ -9814,7 +9814,7 @@
       "characterAge": "16岁",
       "birthday": "1月3日",
       "profileIntroduction": "摆脱了繁忙的日常，享受着久违的休假的山海经天才发明家。\n\n与平时一头扎进研究室专心研制新药的样子不同，休息日里的纱绫很活跃，甚至还会踏着滑板穿梭在街头。\n不过，她不断探究新事物的求知欲在休息日也丝毫未变。",
-      "collectionBG": ""
+      "collectionBG": "BG_Saya_casual_Collection"
     },
     "characterStats": {
       "minHP": 2135,
@@ -9890,7 +9890,7 @@
       "characterAge": "16岁",
       "birthday": "8月31日",
       "profileIntroduction": "永远开朗，最喜欢唱歌的虚拟歌手。\n\n原本只是没有现实身体的虚拟存在，但通过使用基沃托斯的技术获得了实打实的躯体，来到了这个世界。\n虚拟歌手有着能超越时间与空间传达歌唱的特点，自然基沃托斯也有很多她的隐藏粉丝，看来可以满怀期待未来在这个世界举办的演唱会了。",
-      "collectionBG": ""
+      "collectionBG": "BG_CH9999_Collection"
     },
     "characterStats": {
       "minHP": 2035,
@@ -9971,7 +9971,7 @@
       "characterAge": "17岁",
       "birthday": "12月22日",
       "profileIntroduction": "歌赫娜风纪委员会的行政官，风纪委员长日奈的秘书。\n\n总是在日奈的身边辅佐她。看起来好像是一名温柔善良的少女，但对违反规章的人丝毫不会手下留情。在歌赫娜常被人称为“日奈的宠物”，但她本人对此并不在意。",
-      "collectionBG": ""
+      "collectionBG": "BG_Gehenna_Collection"
     },
     "characterStats": {
       "minHP": 2124,
@@ -10052,7 +10052,7 @@
       "characterAge": "？？岁",
       "birthday": "10月27日",
       "profileIntroduction": "来227号温泉乡度假的红冬会长。\n\n最初对特别班擅自建造的温泉浴场感到十分不满，但在体验了和香以及特别班成员们的招待后，决定留在温泉浴场休息。对温泉浴场的休息设施和食物非常满意，反而对温泉浴本身没什么兴趣。",
-      "collectionBG": ""
+      "collectionBG": "BG_Onsen_Collection"
     },
     "characterStats": {
       "minHP": 2226,
@@ -10133,7 +10133,7 @@
       "characterAge": "16岁",
       "birthday": "2月20日",
       "profileIntroduction": "227号温泉乡的老板娘，和特别班的成员们一起经营着规模巨大的温泉浴场。\n\n虽然被红冬事务局处分的处境没有改变，但旧楼突然喷出的温泉使她一夜暴富。可是这时，很多个性鲜明的红冬学员开始妨碍温泉乡的营业，让她疲于应对，叫苦不迭。",
-      "collectionBG": ""
+      "collectionBG": "BG_Onsen_Collection"
     },
     "characterStats": {
       "minHP": 2289,
@@ -10214,7 +10214,7 @@
       "characterAge": "15岁",
       "birthday": "6月25日",
       "profileIntroduction": "阿拜多斯对策委员会的细心会计。\n\n为了尽可能帮上对策委员会的忙，一直努力做着各种兼职。准备迎接新年的她，这次接到了成为巫女的工作。听说如果能扮演“更完美的巫女”，就会拿到很高的工资，因此在全力以赴地研究巫女知识。",
-      "collectionBG": ""
+      "collectionBG": "BG_Newyear_Collection"
     },
     "characterStats": {
       "minHP": 2044,
@@ -10290,7 +10290,7 @@
       "characterAge": "17岁",
       "birthday": "4月7日",
       "profileIntroduction": "总是在处理事故的歌赫娜急救医学部部长。\n\n任何情况下都以一副冷淡的表情运送着伤员。虽然对待伤员的态度就像对待货物一样生硬，但一直以来，在运送歌赫娜各地的无数伤员时，她从未抱怨过一句话。",
-      "collectionBG": ""
+      "collectionBG": "BG_Gehenna_Collection"
     },
     "characterStats": {
       "minHP": 2062,
@@ -10366,7 +10366,7 @@
       "characterAge": "17岁",
       "birthday": "4月26日",
       "profileIntroduction": "千禧年科技学院黑客集团，真理社的副社长。\n\n是一名具有优秀黑客实力的天才程序员，同时还是一个行动派黑客，如果业务需要，无论是潜伏还是追击都在所不辞。在怪咖众多的真理社中，是少有的有常识的正常人，一直向社员们强调着黑客的职业道德。",
-      "collectionBG": ""
+      "collectionBG": "BG_Millennium_Collection"
     },
     "characterStats": {
       "minHP": 2221,
@@ -10447,7 +10447,7 @@
       "characterAge": "15岁",
       "birthday": "4月9日",
       "profileIntroduction": "SRT特殊学园所属，「RABBIT小队」的尖兵（侦察兵）。\n\n追求基于严格规则的生活而入学SRT特殊学园，但学园却突然关闭，现在在公园里和同一小队的队员们一起露宿生活。\n经常随身携带写有SRT战术的教范，基本上是个重视循规蹈矩的人。\n有着采集野山菜，收集废品的兴趣，可能是为了在各方面减轻现在资源容易短缺的公园生活的压力而有的。\n呼号是「RABBIT2」。",
-      "collectionBG": ""
+      "collectionBG": "BG_SRT_Collection"
     },
     "characterStats": {
       "minHP": 2216,
@@ -10523,7 +10523,7 @@
       "characterAge": "15岁",
       "birthday": "7月9日",
       "profileIntroduction": "百鬼夜行联合学园所属，「修行部」的活泼部员。\n\n原本是个生活在百鬼夜行乡村的相当喜欢恶作剧的家伙，但在意想不到的时机遇到了椿和三森后，因「想要成为那样出色的淑女！」而加入修行部。\n为了离理想更近一步每天都在不断钻研，但不知为何这修行的多半部分都会和麻烦扯上关系。",
-      "collectionBG": ""
+      "collectionBG": "BG_Hyakkiyako_Collection"
     },
     "characterStats": {
       "minHP": 2133,
@@ -10599,7 +10599,7 @@
       "characterAge": "16岁",
       "birthday": "11月16日",
       "profileIntroduction": "格黑娜学园所属，「万魔殿」的议员之一。\n\n基本上是个觉得一切都很麻烦的人，可她在格黑娜的每天总是碰上一堆乱子，更何况那个学生会「万魔殿」（准确的说是真琴）也肯定不会如她所愿。\n一边把没办法、真麻烦挂在嘴边，一边淡泊地处理无限产生的问题、工作之类事务的中层管理干部。\n在同为万魔殿所属的吉祥物般的存在「伊吹」的治愈下，她今天也在一边叹息一边进行工作。",
-      "collectionBG": ""
+      "collectionBG": "BG_Gehenna_Collection"
     },
     "characterStats": {
       "minHP": 2259,
@@ -10675,7 +10675,7 @@
       "characterAge": "16岁",
       "birthday": "1月8日",
       "profileIntroduction": "阿里乌斯分校所属，有着胆小而沉闷的气质的「阿里乌斯小队」少女。\n\n性格自卑而悲观，嘴上会频繁说出自虐的话语。\n有时能看到她背着感觉很重的包袱跟在大家稍微后面一点的地方的样子。",
-      "collectionBG": ""
+      "collectionBG": "BG_Arius_Collection"
     },
     "characterStats": {
       "minHP": 2125,
@@ -10751,7 +10751,7 @@
       "characterAge": "15岁",
       "birthday": "9月13日",
       "profileIntroduction": "SRT特殊学园所属，「RABBIT小队」的通信员。\n\n憧憬拥有强大火力的武器而入学SRT特殊学园，但学园却突然关闭，现在在公园里和同一小队的队员们一起露宿生活。\n有着对炸掉、毁灭事物时感到喜悦的怪癖，但的确有着通信员应有的能力。\n甜食重度爱好者，嘴里永远叼着棒棒糖。\n呼号是「RABBIT3」。",
-      "collectionBG": ""
+      "collectionBG": "BG_SRT_Collection"
     },
     "characterStats": {
       "minHP": 2224,
@@ -10832,7 +10832,7 @@
       "characterAge": "16岁",
       "birthday": "4月1日",
       "profileIntroduction": "千年科学学园所属，为了潜入任务而换上了兔女郎服的「C&C」特工。\n\n在不熟悉的环境下仍率先准备了兔女郎服，引爆C4解决障碍物，和平时一样沉着冷静地执行作战。\n也许是对与平时不同的服装感到兴奋，在哪都能看见她高兴的表情。",
-      "collectionBG": ""
+      "collectionBG": "BG_BunnyGirl_Collection"
     },
     "characterStats": {
       "minHP": 1988,
@@ -10908,7 +10908,7 @@
       "characterAge": "17岁",
       "birthday": "12月10日",
       "profileIntroduction": "千年科学学园所属，原任黑客群体「真理会」，现任「特异现象调查部」的部长。\n\n自称超天才病弱美少女黑客，似乎还是千年史上仅有3人允许作为自称的学位「全知」的所有者……真的是这么一回事吗，更进一步说，这样的学位真的存在吗，一切都蒙在谜团之中。\n日鞠说，秘密让少女变得更美丽……大概如此吧。\n同时还是个拥有屈指可数的实力的天才黑客，有着对神秘事物热爱到盲目的奇特兴趣的少女。",
-      "collectionBG": ""
+      "collectionBG": "BG_Millennium_Collection"
     },
     "characterStats": {
       "minHP": 3271,
@@ -10989,7 +10989,7 @@
       "characterAge": "15岁",
       "birthday": "5月12日",
       "profileIntroduction": "三一综合学园所属，迎接圣诞节到来而换上了圣诞服的「救护骑士团」团员。\n\n平时就活泼的花江，选择了很像她会选的便于行动的圣诞服。\n对于无论什么都能乐在其中的花江来说，圣诞节就是庆典本身。\n背着礼物袋，摇着铃铛，参加着为了给大家传递幸福的志愿活动。",
-      "collectionBG": ""
+      "collectionBG": "BG_Holiday_Collection"
     },
     "characterStats": {
       "minHP": 2278,
@@ -11065,7 +11065,7 @@
       "characterAge": "16岁",
       "birthday": "4月30日",
       "profileIntroduction": "格黑娜学园所属，为了迎接新年换上了和服的供食部的部员。\n\n虽然她祈愿着今年安稳的日子能过够持续下去，但是周围的环境能否让她的心愿实现呢这似乎还是个未知数。",
-      "collectionBG": ""
+      "collectionBG": "BG_NewYearFestival2"
     },
     "characterStats": {
       "minHP": 2294,
@@ -11141,7 +11141,7 @@
       "characterAge": "17岁",
       "birthday": "9月7日",
       "profileIntroduction": "瓦尔基里警察学校所属，担任「公安局」局长一职的学生。\n\n对决定负责的犯罪案件，就像字典里没有放弃这个词一样地探听线索，查明真相，由此得到「狂犬」这一为世间所知的外号。\n因为严厉的气质和外号的缘故常常被误认为容易过激，但实际上是个总是冷静且现实的人。",
-      "collectionBG": ""
+      "collectionBG": "BG_Valkyrie_Collection"
     },
     "characterStats": {
       "minHP": 2120,
@@ -11217,7 +11217,7 @@
       "characterAge": "17岁",
       "birthday": "7月4日",
       "profileIntroduction": "三一综合学园所属，构成三一的学生联合其一「圣子」的领袖，也是学生会「茶会」的主持。\n\n措辞和蔼，但由于基本不讲真心话，被评价为难相处的神秘人物。\n兴趣是准备供茶会使用的茶叶、茶点。很多三一学生都梦想着被招待到她举办的茶会的一天。",
-      "collectionBG": ""
+      "collectionBG": "BG_Trinity_Collection"
     },
     "characterStats": {
       "minHP": 1974,
@@ -11293,7 +11293,7 @@
       "characterAge": "15岁",
       "birthday": "5月13日",
       "profileIntroduction": "新年を迎えたゲヘナ学園所属、便利屋68の平社員。\n\n大切な人たちと新年を過ごす事に慣れておらず、みんなと合わせるために、普段着ない服に袖を通して着飾った。",
-      "collectionBG": ""
+      "collectionBG": "BG_Newyear_Collection"
     },
     "characterStats": {
       "minHP": 2040,
@@ -11369,7 +11369,7 @@
       "characterAge": "17岁",
       "birthday": "7月14日",
       "profileIntroduction": "红冬联邦学园所属，「建设部」的部长。\n\n只要是大规模土木工程、建筑等需要人力的地方无论在哪都会派人过去并指挥现场。\n工作本事实打实，但由于会因为琐事而开展罢工、游行示威而在甲方之间臭名远扬。",
-      "collectionBG": ""
+      "collectionBG": "BG_Redwinter_Collection"
     },
     "characterStats": {
       "minHP": 1978,
@@ -11454,7 +11454,7 @@
       "characterAge": "16岁",
       "birthday": "5月16日",
       "profileIntroduction": "阿拜多斯高级中学所属，来到了仲夏无人岛度假村的「对策委员会」突击队长。\n\n在重建度假村和收集食材等事上身先士卒。\n倒不如说对生存乐在其中，即使换上了泳装，也仍旧像以前一样按自己的步调行动。",
-      "collectionBG": ""
+      "collectionBG": "BG_Swimsuit02_Collection"
     },
     "characterStats": {
       "minHP": 1967,
@@ -11535,7 +11535,7 @@
       "characterAge": "17岁",
       "birthday": "5月17日",
       "profileIntroduction": "三一综合学园所属，为了能帮上遗迹调查的忙而一同前往无人岛的「修女会」少女。\n\n即使地点情形改变，她乐于助人的本质也没有变。\n在悠闲的无人岛空气之中比平时稍显兴奋。",
-      "collectionBG": ""
+      "collectionBG": "BG_WaterFall"
     },
     "characterStats": {
       "minHP": 1996,
@@ -11616,7 +11616,7 @@
       "characterAge": "16岁",
       "birthday": "3月15日",
       "profileIntroduction": "百鬼夜行联合学院所属，配合大海而换上了泳装的「修行部」副部长。\n\n平时总是露出和蔼温柔的微笑，但只有换上了泳装的这一刻，看上去比平时稍微更显兴奋。",
-      "collectionBG": ""
+      "collectionBG": "BG_Swimsuit03_Collection"
     },
     "characterStats": {
       "minHP": 2832,
@@ -11701,7 +11701,7 @@
       "characterAge": "17歳",
       "birthday": "3月1日",
       "profileIntroduction": "格黑娜学园所属，为了晄轮大祭而换上了运动服的「美食研究会」部长。\n\n无论何时何地，对美食的探求都在继续，寻找只有在晄轮大祭这一基沃托斯最大的大运动会才能品尝到的美食而东奔西走。\n不知道是不是因为身处热烈的现场氛围之中，看上去比平时的她稍微更开心一些。",
-      "collectionBG": ""
+      "collectionBG": "BG_Cheerleading_Collection"
     },
     "characterStats": {
       "minHP": 2871,
@@ -11782,7 +11782,7 @@
       "characterAge": "16岁",
       "birthday": "1月22日",
       "profileIntroduction": "红冬联邦学园所属，和特别班的学生一起运营227号温泉乡的「227号特别班」停学生。\n\n旧校舍中突然涌出温泉，于是跟和香一起开始经营巨大的温泉乡。\n与和香不同，她对兴盛温泉乡一事并不怎么上心，但似乎对这里能尽情制作饮料和点心的环境感到很满意。",
-      "collectionBG": ""
+      "collectionBG": "BG_Onsen_Collection"
     },
     "characterStats": {
       "minHP": 2832,
@@ -11863,7 +11863,7 @@
       "characterAge": "15岁",
       "birthday": "5月1日",
       "profileIntroduction": "千年科学学园所属，「特异现象调查部」的成员。\n\n虽然难以理解她的想法，但能看出她来到严寒地区后多少比平时更兴奋了些。\n说是这么说，但她的时尚品味和平时好像没什么区别。",
-      "collectionBG": ""
+      "collectionBG": "BG_FrozenSea_Collection"
     },
     "characterStats": {
       "minHP": 2842,
@@ -11939,7 +11939,7 @@
       "characterAge": "18岁",
       "birthday": "3月19日",
       "profileIntroduction": "格黑娜学园所属，「万魔殿」的议长。\n\n只要有想要的东西就不吝用计将其得到手，忠实于欲望的野心家兼阴谋家。\n有时会因这样的态度碰钉子而经常变得心灰意冷，但也有着马上从中恢复过来的强大内心。\n把伊吹当成自己的妹妹一样疼爱，同样也把伊吕波当成自己的妹妹一样到处使唤。",
-      "collectionBG": ""
+      "collectionBG": "BG_Gehenna_Collection"
     },
     "characterStats": {
       "minHP": 1883,
@@ -12015,7 +12015,7 @@
       "characterAge": "15岁",
       "birthday": "1月30日",
       "profileIntroduction": "崔尼蒂甜点部的成员，性格活泼开朗。\n\n性格悠闲自在的她，非常珍惜和朋友们一起吃甜点聊天的时间。\n最喜欢吃的甜点是冰淇淋，最近迷上了薄荷巧克力味。",
-      "collectionBG": ""
+      "collectionBG": "BG_Trinity_Collection"
     },
     "characterStats": {
       "minHP": 2256,
@@ -12091,7 +12091,7 @@
       "characterAge": "16岁",
       "birthday": "4月30日",
       "profileIntroduction": "歌赫娜负责管理食堂的供餐部成员。\n\n在歌赫娜，她是为数不多的认真又亲切的正常人，每天早上都会为歌赫娜的大家准备数百份早餐。\n虽然厨艺还算不错，但由于食堂人手不足，无法发挥正常实力。\n但她并没有因此放弃，一直在努力开发更好的食谱。",
-      "collectionBG": ""
+      "collectionBG": "BG_Gehenna_Collection"
     },
     "characterStats": {
       "minHP": 2546,
@@ -12172,7 +12172,7 @@
       "characterAge": "15岁",
       "birthday": "5月12日",
       "profileIntroduction": "隶属于崔尼蒂的救护骑士团，是个活泼开朗的新成员。 \n\n对任何事都抱有积极的态度，但只要一看到患者就会过度吵闹，经常导致情况进一步恶化。\n虽然在很多方面都有些奇怪，但神奇的是，无论患者生了什么病，只要得到这位少女的祝福就可以迅速痊愈。",
-      "collectionBG": ""
+      "collectionBG": "BG_Trinity_Collection"
     },
     "characterStats": {
       "minHP": 2562,
@@ -12253,7 +12253,7 @@
       "characterAge": "16岁",
       "birthday": "4月19日",
       "profileIntroduction": "千禧年科技的黑客组织——真理社的工程师。\n\n就算在人才济济的千禧年科技中，她也算得上数一数二的天才。千禧年大部分的最尖端机器都是她开发的。\n但她从来不会因此自以为是或者傲慢无礼，反而会认真地交流、倾听，是个温柔亲切的女孩。",
-      "collectionBG": ""
+      "collectionBG": "BG_Millennium_Collection"
     },
     "characterStats": {
       "minHP": 2204,
@@ -12334,7 +12334,7 @@
       "characterAge": "17岁",
       "birthday": "11月13日",
       "profileIntroduction": "千禧年科技工程部的部长。\n\n她无愧于工程部部长的头衔，发明了各种各样的机器人，尤其是她的宠物机器人“小雷”，被评价为拥有与数百台PMC战斗用自动人偶相比拟的战斗能力。",
-      "collectionBG": ""
+      "collectionBG": "BG_Millennium_Collection"
     },
     "characterStats": {
       "minHP": 2294,
@@ -12415,7 +12415,7 @@
       "characterAge": "15岁",
       "birthday": "11月12日",
       "profileIntroduction": "阿拜多斯对策委员会的秘书兼通信员。\n\n她品格诚实，作为重视法度和规定的原则主义者，为了阿拜多斯的复兴一直不懈努力。",
-      "collectionBG": ""
+      "collectionBG": "BG_Abydos_Collection"
     },
     "characterStats": {
       "minHP": 2562,
@@ -12496,7 +12496,7 @@
       "characterAge": "16岁",
       "birthday": "7月7日",
       "profileIntroduction": "百鬼夜行庆典运营管理部的部长。\n\n同时也是百鬼夜行的传统茶店【百夜堂】的看板娘。\n平时一副冒冒失失的样子，其实全都是她作为看板娘吸引客人的演技。\n实际上她为了庆典的成功和百夜堂的销售额什么事都做得出来，是个职业气质十足的少女。\n但因其对每件事都会率直地表现出情感，所以好朋友和老师都知道她的真面目。",
-      "collectionBG": ""
+      "collectionBG": "BG_Hyakkiyako_Collection"
     },
     "characterStats": {
       "minHP": 2239,
@@ -12577,7 +12577,7 @@
       "characterAge": "16岁",
       "birthday": "1月3日",
       "profileIntroduction": "补习部的成员，一位情感丰富的少女。\n\n看起来高雅文静，但总会说出与外表大相径庭的过激言论。\n每当花子开口时，了解她的补习部成员都如临大敌。",
-      "collectionBG": ""
+      "collectionBG": "BG_Trinity_Collection"
     },
     "characterStats": {
       "minHP": 2531,
@@ -12658,7 +12658,7 @@
       "characterAge": "15岁",
       "birthday": "9月12日",
       "profileIntroduction": "姐妹会的成员，正直又仁慈的少女。\n\n总是以善良温柔的微笑对待崔尼蒂的所有人。外表温婉可爱，有一种能让人平心静气的氛围，因此有很多人找她倾诉烦恼。总是认为自己有很多不足之处，梦想是成为和其他前辈一样优秀的修女。",
-      "collectionBG": ""
+      "collectionBG": "BG_Trinity_Collection"
     },
     "characterStats": {
       "minHP": 2130,
@@ -12739,7 +12739,7 @@
       "characterAge": "15岁",
       "birthday": "8月22日",
       "profileIntroduction": "歌赫娜风纪委员会的医疗负责人。\n\n重视规定、纪律、流程，在风纪委员会中属于为数不多的正常人，负责防止亚子或者伊织等其他风纪委员暴走。\n虽然语气生硬，看起来和其他风纪委员一样冷冰冰的，但遇到可爱的动物时，就会变成一位无比温柔可亲的少女。",
-      "collectionBG": ""
+      "collectionBG": "BG_Gehenna_Collection"
     },
     "characterStats": {
       "minHP": 2515,
@@ -12820,7 +12820,7 @@
       "characterAge": "17岁",
       "birthday": "1月5日",
       "profileIntroduction": "千禧年科技的黑客组织——真理社的黑客。\n\n擅长窃听，喜欢偷听别人的秘密。\n不太会处理人际关系，对比自己小的女生也会恭恭敬敬，很难亲近。\n在现实中是个胆小话少的少女，但在网络上却惊人地能言善辩。",
-      "collectionBG": ""
+      "collectionBG": "BG_Millennium_Collection"
     },
     "characterStats": {
       "minHP": 2245,
@@ -12896,7 +12896,7 @@
       "characterAge": "15岁",
       "birthday": "10月20日",
       "profileIntroduction": "歌赫娜负责管理食堂的供餐部成员。\n\n和风香一样，她也在努力为大家做菜。可是她的厨艺极具毁灭性，用“糟糕”已经不足以形容，因此对提高大家的伙食水准并没有什么帮助。\n不过，在风香的鼓励和指导下，她每天都在为做出更好的料理而努力。",
-      "collectionBG": ""
+      "collectionBG": "BG_Gehenna_Collection"
     },
     "characterStats": {
       "minHP": 2214,
@@ -12977,7 +12977,7 @@
       "characterAge": "16岁",
       "birthday": "1月6日",
       "profileIntroduction": "隶属于崔尼蒂的救护骑士团，是个亲切的少女。\n\n她具有善良的品性，喜欢参加爱心志愿者服务，但因过度担心健康问题，周围的女生常说她像妈妈。\n虽然她不喜欢争吵和纠纷，是个容易心软的人，但面对威胁和平的敌人还是会坚决对抗，随时做好准备。",
-      "collectionBG": ""
+      "collectionBG": "BG_Trinity_Collection"
     },
     "characterStats": {
       "minHP": 2482,
@@ -13053,7 +13053,7 @@
       "characterAge": "15岁",
       "birthday": "11月30日",
       "profileIntroduction": "隶属于崔尼蒂图书管理部的图书管理员。\n\n是个读书狂，也是为数不多的将崔尼蒂图书馆数量庞大的藏书全部读完的女生之一。\n她不仅喜欢读书，还喜欢向别人荐书，能根据对方的喜好推荐合适的书籍。",
-      "collectionBG": ""
+      "collectionBG": "BG_Trinity_Collection"
     },
     "characterStats": {
       "minHP": 2211,
@@ -13129,7 +13129,7 @@
       "characterAge": "15岁",
       "birthday": "8月29日",
       "profileIntroduction": "崔尼蒂甜点部的成员。\n\n她为自己矮小的个子和稚嫩的体型感到自卑，总是表现得像个充满攻击性的小动物。\n虽然她时常想让自己成熟些，但想法总是会直接显现在脸\n上，所以没有什么效果。\n不过，在各种甜品店品尝限定的甜点时，她会笑得比任何人都灿烂。",
-      "collectionBG": ""
+      "collectionBG": "BG_Trinity_Collection"
     },
     "characterStats": {
       "minHP": 2232,
@@ -13210,7 +13210,7 @@
       "characterAge": "16岁",
       "birthday": "2月20日",
       "profileIntroduction": "受到红冬处分，目前正在旧楼反省的227号特别班成员。\n\n被处分的原因是“使用望远镜跟踪骚扰”。\n她喜欢用自己的双眼观察这个世界上有魅力的事物，即使是沙勒的老师也不例外。在227号特别班中吃了很多苦，节俭到吝啬的生活习惯已经刻在了她的骨子里。",
-      "collectionBG": ""
+      "collectionBG": "BG_Redwinter_Collection"
     },
     "characterStats": {
       "minHP": 2277,
@@ -13291,7 +13291,7 @@
       "characterAge": "15岁",
       "birthday": "11月12日",
       "profileIntroduction": "阿拜多斯高级中学所属，来到了夏日海边的「对策委员会」书记担当。\n\n这种时候就忘记平时的事，尽情地享受吧……虽然是这么想的，但果然还是改不了与生俱来的认真。",
-      "collectionBG": ""
+      "collectionBG": "BG_Swimsuit02_Collection"
     },
     "characterStats": {
       "minHP": 2149,
@@ -13372,7 +13372,7 @@
       "characterAge": "16岁",
       "birthday": "7月7日",
       "profileIntroduction": "百鬼夜行联合学院所属，到了夏天也充满了不变野心的「庆典运营委员会」委员长。\n\n为了让百夜堂成长为基沃托斯第一连锁，今天也要满怀热情。\n无论什么阻碍，只要和偶像拳一起就没有问题。\n只要是触手可及的事物就都要得到手，夏日的少女是无敌哒！",
-      "collectionBG": ""
+      "collectionBG": "BG_Swimsuit03_Collection"
     },
     "characterStats": {
       "minHP": 2048,
@@ -13453,7 +13453,7 @@
       "characterAge": "16岁",
       "birthday": "8月12日",
       "profileIntroduction": "千年科学学园所属，发生种种事情而换上了女仆装的「游戏开发部」部长。\n\n穿上了和平时不同的服装也还是原来的柚子没变，但好像能做到的事比以前更多了。\n与游戏开发部的大家一起直面各种困难。",
-      "collectionBG": ""
+      "collectionBG": "BG_OldHouseOutside_Collection"
     },
     "characterStats": {
       "minHP": 2986,
@@ -13534,7 +13534,7 @@
       "characterAge": "15岁",
       "birthday": "7月12日",
       "profileIntroduction": "SRT特殊学园所属，为执行潜入作战而到访渔村的「RABBIT小队」狙击手。\n\n带着钓具在码头悠闲地垂钓。\n偶尔会钓上大家伙而引来围观……但天生的薄弱存在感，在这个神奇的渔村仍旧健在。",
-      "collectionBG": ""
+      "collectionBG": "BG_FishingVillage2_Collection"
     },
     "characterStats": {
       "minHP": 3093,
@@ -13610,7 +13610,7 @@
       "characterAge": "12岁",
       "birthday": "-",
       "profileIntroduction": "栅川中学所属，开朗的女初中生。\n\n与同年级的初春饰利是挚友，并为她介绍了常盘台中学的前辈御坂美琴。虽说是Level0的无能力者，但直觉优秀，经常能找到关键的线索。喜欢的事物是都市传说与甜品。据说一到假日就会经常外出调查甜品。",
-      "collectionBG": ""
+      "collectionBG": "BG_BigPlaza_Collection"
     },
     "characterStats": {
       "minHP": 3078,
