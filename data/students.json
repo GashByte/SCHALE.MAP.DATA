@@ -76,6 +76,8 @@
       "criticalPoint": 201,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 750,
       "regenCost": 700
     },
@@ -170,6 +172,8 @@
       "criticalPoint": 195,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 8,
+      "ammoCost": 1,
       "range": 350,
       "regenCost": 700
     },
@@ -268,6 +272,8 @@
       "criticalPoint": 205,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 750,
       "regenCost": 700
     },
@@ -362,6 +368,8 @@
       "criticalPoint": 199,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 15,
+      "ammoCost": 3,
       "range": 650,
       "regenCost": 700
     },
@@ -460,6 +468,8 @@
       "criticalPoint": 199,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 49,
+      "ammoCost": 7,
       "range": 750,
       "regenCost": 700
     },
@@ -554,6 +564,8 @@
       "criticalPoint": 205,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 8,
+      "ammoCost": 1,
       "range": 350,
       "regenCost": 700
     },
@@ -648,6 +660,8 @@
       "criticalPoint": 194,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 650,
       "regenCost": 700
     },
@@ -737,6 +751,8 @@
       "criticalPoint": 245,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 45,
+      "ammoCost": 3,
       "range": 750,
       "regenCost": 700
     },
@@ -826,6 +842,8 @@
       "criticalPoint": 274,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 24,
+      "ammoCost": 6,
       "range": 450,
       "regenCost": 700
     },
@@ -920,6 +938,8 @@
       "criticalPoint": 244,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 45,
+      "ammoCost": 3,
       "range": 750,
       "regenCost": 700
     },
@@ -1018,6 +1038,8 @@
       "criticalPoint": 202,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 15,
+      "ammoCost": 3,
       "range": 650,
       "regenCost": 700
     },
@@ -1112,6 +1134,8 @@
       "criticalPoint": 252,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 20,
+      "ammoCost": 1,
       "range": 750,
       "regenCost": 700
     },
@@ -1201,6 +1225,8 @@
       "criticalPoint": 198,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 8,
+      "ammoCost": 1,
       "range": 450,
       "regenCost": 700
     },
@@ -1295,6 +1321,8 @@
       "criticalPoint": 243,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 4,
+      "ammoCost": 2,
       "range": 450,
       "regenCost": 700
     },
@@ -1389,6 +1417,8 @@
       "criticalPoint": 246,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 15,
+      "ammoCost": 3,
       "range": 450,
       "regenCost": 700
     },
@@ -1483,6 +1513,8 @@
       "criticalPoint": 230,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 10,
+      "ammoCost": 1,
       "range": 850,
       "regenCost": 700
     },
@@ -1572,6 +1604,8 @@
       "criticalPoint": 202,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 750,
       "regenCost": 700
     },
@@ -1666,6 +1700,8 @@
       "criticalPoint": 203,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 6,
+      "ammoCost": 1,
       "range": 550,
       "regenCost": 700
     },
@@ -1760,6 +1796,8 @@
       "criticalPoint": 191,
       "criticalDamageRate": 24000,
       "criticalDamageRatePercentage": 240,
+      "ammoCount": 1,
+      "ammoCost": 1,
       "range": 650,
       "regenCost": 700
     },
@@ -1854,6 +1892,8 @@
       "criticalPoint": 201,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 15,
+      "ammoCost": 1,
       "range": 650,
       "regenCost": 700
     },
@@ -1948,6 +1988,8 @@
       "criticalPoint": 205,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 750,
       "regenCost": 700
     },
@@ -2042,6 +2084,8 @@
       "criticalPoint": 225,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 15,
+      "ammoCost": 1,
       "range": 650,
       "regenCost": 700
     },
@@ -2140,6 +2184,8 @@
       "criticalPoint": 204,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 35,
+      "ammoCost": 7,
       "range": 750,
       "regenCost": 700
     },
@@ -2234,6 +2280,8 @@
       "criticalPoint": 221,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 750,
       "regenCost": 700
     },
@@ -2332,6 +2380,8 @@
       "criticalPoint": 211,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 15,
+      "ammoCost": 3,
       "range": 650,
       "regenCost": 700
     },
@@ -2426,6 +2476,8 @@
       "criticalPoint": 200,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 750,
       "regenCost": 700
     },
@@ -2515,6 +2567,8 @@
       "criticalPoint": 219,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 40,
+      "ammoCost": 10,
       "range": 450,
       "regenCost": 700
     },
@@ -2609,6 +2663,8 @@
       "criticalPoint": 199,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 750,
       "regenCost": 700
     },
@@ -2703,6 +2759,8 @@
       "criticalPoint": 210,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 15,
+      "ammoCost": 3,
       "range": 650,
       "regenCost": 700
     },
@@ -2792,6 +2850,8 @@
       "criticalPoint": 216,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 35,
+      "ammoCost": 7,
       "range": 350,
       "regenCost": 700
     },
@@ -2886,6 +2946,8 @@
       "criticalPoint": 217,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 10,
+      "ammoCost": 1,
       "range": 650,
       "regenCost": 700
     },
@@ -2980,6 +3042,8 @@
       "criticalPoint": 202,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 750,
       "regenCost": 700
     },
@@ -3074,6 +3138,8 @@
       "criticalPoint": 209,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 25,
+      "ammoCost": 5,
       "range": 750,
       "regenCost": 700
     },
@@ -3168,6 +3234,8 @@
       "criticalPoint": 202,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 750,
       "regenCost": 700
     },
@@ -3262,6 +3330,8 @@
       "criticalPoint": 210,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 6,
+      "ammoCost": 2,
       "range": 550,
       "regenCost": 700
     },
@@ -3356,6 +3426,8 @@
       "criticalPoint": 209,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 7,
+      "ammoCost": 1,
       "range": 750,
       "regenCost": 700
     },
@@ -3450,6 +3522,8 @@
       "criticalPoint": 202,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 9,
+      "ammoCost": 1,
       "range": 650,
       "regenCost": 700
     },
@@ -3539,6 +3613,8 @@
       "criticalPoint": 218,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 20,
+      "ammoCost": 4,
       "range": 350,
       "regenCost": 700
     },
@@ -3633,6 +3709,8 @@
       "criticalPoint": 217,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 40,
+      "ammoCost": 5,
       "range": 350,
       "regenCost": 700
     },
@@ -3727,6 +3805,8 @@
       "criticalPoint": 210,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 750,
       "regenCost": 700
     },
@@ -3816,6 +3896,8 @@
       "criticalPoint": 218,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 32,
+      "ammoCost": 4,
       "range": 350,
       "regenCost": 700
     },
@@ -3905,6 +3987,8 @@
       "criticalPoint": 252,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 2,
+      "ammoCost": 1,
       "range": 850,
       "regenCost": 700
     },
@@ -3994,6 +4078,8 @@
       "criticalPoint": 216,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 15,
+      "ammoCost": 3,
       "range": 350,
       "regenCost": 700
     },
@@ -4088,6 +4174,8 @@
       "criticalPoint": 203,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 750,
       "regenCost": 700
     },
@@ -4182,6 +4270,8 @@
       "criticalPoint": 251,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 50,
+      "ammoCost": 5,
       "range": 750,
       "regenCost": 700
     },
@@ -4276,6 +4366,8 @@
       "criticalPoint": 271,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 8,
+      "ammoCost": 1,
       "range": 450,
       "regenCost": 700
     },
@@ -4370,6 +4462,8 @@
       "criticalPoint": 262,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 15,
+      "ammoCost": 3,
       "range": 450,
       "regenCost": 700
     },
@@ -4464,6 +4558,8 @@
       "criticalPoint": 202,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 6,
+      "ammoCost": 1,
       "range": 650,
       "regenCost": 700
     },
@@ -4553,6 +4649,8 @@
       "criticalPoint": 203,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 15,
+      "ammoCost": 1,
       "range": 650,
       "regenCost": 700
     },
@@ -4642,6 +4740,8 @@
       "criticalPoint": 201,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 40,
+      "ammoCost": 4,
       "range": 750,
       "regenCost": 700
     },
@@ -4731,6 +4831,8 @@
       "criticalPoint": 219,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 15,
+      "ammoCost": 3,
       "range": 650,
       "regenCost": 700
     },
@@ -4825,6 +4927,8 @@
       "criticalPoint": 252,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 70,
+      "ammoCost": 7,
       "range": 450,
       "regenCost": 700
     },
@@ -4914,6 +5018,8 @@
       "criticalPoint": 201,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 17,
+      "ammoCost": 1,
       "range": 550,
       "regenCost": 700
     },
@@ -5008,6 +5114,8 @@
       "criticalPoint": 216,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 25,
+      "ammoCost": 5,
       "range": 450,
       "regenCost": 700
     },
@@ -5102,6 +5210,8 @@
       "criticalPoint": 218,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 9,
+      "ammoCost": 1,
       "range": 550,
       "regenCost": 700
     },
@@ -5196,6 +5306,8 @@
       "criticalPoint": 211,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 6,
+      "ammoCost": 1,
       "range": 650,
       "regenCost": 700
     },
@@ -5290,6 +5402,8 @@
       "criticalPoint": 218,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 15,
+      "ammoCost": 3,
       "range": 650,
       "regenCost": 700
     },
@@ -5388,6 +5502,8 @@
       "criticalPoint": 209,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 750,
       "regenCost": 700
     },
@@ -5477,6 +5593,8 @@
       "criticalPoint": 218,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 350,
       "regenCost": 700
     },
@@ -5566,6 +5684,8 @@
       "criticalPoint": 25,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 25,
+      "ammoCost": 5,
       "range": 450,
       "regenCost": 700
     },
@@ -5655,6 +5775,8 @@
       "criticalPoint": 261,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 10,
+      "ammoCost": 1,
       "range": 450,
       "regenCost": 700
     },
@@ -5744,6 +5866,8 @@
       "criticalPoint": 200,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 20,
+      "ammoCost": 4,
       "range": 650,
       "regenCost": 700
     },
@@ -5838,6 +5962,8 @@
       "criticalPoint": 201,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 15,
+      "ammoCost": 3,
       "range": 650,
       "regenCost": 700
     },
@@ -5927,6 +6053,8 @@
       "criticalPoint": 209,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 25,
+      "ammoCost": 5,
       "range": 750,
       "regenCost": 700
     },
@@ -6021,6 +6149,8 @@
       "criticalPoint": 210,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 15,
+      "ammoCost": 1,
       "range": 550,
       "regenCost": 700
     },
@@ -6110,6 +6240,8 @@
       "criticalPoint": 201,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 15,
+      "ammoCost": 3,
       "range": 650,
       "regenCost": 700
     },
@@ -6204,6 +6336,8 @@
       "criticalPoint": 202,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 850,
       "regenCost": 700
     },
@@ -6298,6 +6432,8 @@
       "criticalPoint": 252,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 15,
+      "ammoCost": 3,
       "range": 650,
       "regenCost": 700
     },
@@ -6387,6 +6523,8 @@
       "criticalPoint": 218,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 8,
+      "ammoCost": 2,
       "range": 350,
       "regenCost": 700
     },
@@ -6476,6 +6614,8 @@
       "criticalPoint": 211,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 20,
+      "ammoCost": 4,
       "range": 450,
       "regenCost": 700
     },
@@ -6565,6 +6705,8 @@
       "criticalPoint": 209,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 20,
+      "ammoCost": 4,
       "range": 550,
       "regenCost": 700
     },
@@ -6659,6 +6801,8 @@
       "criticalPoint": 208,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 30,
+      "ammoCost": 6,
       "range": 350,
       "regenCost": 700
     },
@@ -6753,6 +6897,8 @@
       "criticalPoint": 210,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 30,
+      "ammoCost": 6,
       "range": 750,
       "regenCost": 700
     },
@@ -6847,6 +6993,8 @@
       "criticalPoint": 219,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 750,
       "regenCost": 700
     },
@@ -6941,6 +7089,8 @@
       "criticalPoint": 200,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 15,
+      "ammoCost": 3,
       "range": 650,
       "regenCost": 700
     },
@@ -7030,6 +7180,8 @@
       "criticalPoint": 270,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 1,
+      "ammoCost": 1,
       "range": 550,
       "regenCost": 700
     },
@@ -7119,6 +7271,8 @@
       "criticalPoint": 200,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 15,
+      "ammoCost": 3,
       "range": 750,
       "regenCost": 700
     },
@@ -7208,6 +7362,8 @@
       "criticalPoint": 202,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 20,
+      "ammoCost": 4,
       "range": 650,
       "regenCost": 700
     },
@@ -7297,6 +7453,8 @@
       "criticalPoint": 208,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 8,
+      "ammoCost": 2,
       "range": 550,
       "regenCost": 700
     },
@@ -7386,6 +7544,8 @@
       "criticalPoint": 208,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 30,
+      "ammoCost": 3,
       "range": 650,
       "regenCost": 700
     },
@@ -7475,6 +7635,8 @@
       "criticalPoint": 218,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 550,
       "regenCost": 700
     },
@@ -7564,6 +7726,8 @@
       "criticalPoint": 201,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 750,
       "regenCost": 700
     },
@@ -7653,6 +7817,8 @@
       "criticalPoint": 202,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 750,
       "regenCost": 700
     },
@@ -7742,6 +7908,8 @@
       "criticalPoint": 210,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 750,
       "regenCost": 700
     },
@@ -7836,6 +8004,8 @@
       "criticalPoint": 210,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 20,
+      "ammoCost": 2,
       "range": 550,
       "regenCost": 700
     },
@@ -7930,6 +8100,8 @@
       "criticalPoint": 203,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 10,
+      "ammoCost": 1,
       "range": 650,
       "regenCost": 700
     },
@@ -8028,6 +8200,8 @@
       "criticalPoint": 203,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 49,
+      "ammoCost": 7,
       "range": 750,
       "regenCost": 700
     },
@@ -8122,6 +8296,8 @@
       "criticalPoint": 219,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 8,
+      "ammoCost": 2,
       "range": 550,
       "regenCost": 700
     },
@@ -8216,6 +8392,8 @@
       "criticalPoint": 203,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 6,
+      "ammoCost": 1,
       "range": 550,
       "regenCost": 700
     },
@@ -8310,6 +8488,8 @@
       "criticalPoint": 249,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 6,
+      "ammoCost": 1,
       "range": 650,
       "regenCost": 700
     },
@@ -8399,6 +8579,8 @@
       "criticalPoint": 199,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 15,
+      "ammoCost": 3,
       "range": 650,
       "regenCost": 700
     },
@@ -8493,6 +8675,8 @@
       "criticalPoint": 199,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 750,
       "regenCost": 700
     },
@@ -8587,6 +8771,8 @@
       "criticalPoint": 198,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 50,
+      "ammoCost": 5,
       "range": 750,
       "regenCost": 700
     },
@@ -8681,6 +8867,8 @@
       "criticalPoint": 197,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 15,
+      "ammoCost": 1,
       "range": 550,
       "regenCost": 700
     },
@@ -8775,6 +8963,8 @@
       "criticalPoint": 199,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 45,
+      "ammoCost": 3,
       "range": 750,
       "regenCost": 700
     },
@@ -8864,6 +9054,8 @@
       "criticalPoint": 198,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 15,
+      "ammoCost": 3,
       "range": 650,
       "regenCost": 700
     },
@@ -8958,6 +9150,8 @@
       "criticalPoint": 256,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 15,
+      "ammoCost": 3,
       "range": 650,
       "regenCost": 700
     },
@@ -9047,6 +9241,8 @@
       "criticalPoint": 196,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 9,
+      "ammoCost": 3,
       "range": 350,
       "regenCost": 700
     },
@@ -9141,6 +9337,8 @@
       "criticalPoint": 200,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 27,
+      "ammoCost": 3,
       "range": 350,
       "regenCost": 700
     },
@@ -9230,6 +9428,8 @@
       "criticalPoint": 194,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 15,
+      "ammoCost": 3,
       "range": 650,
       "regenCost": 700
     },
@@ -9319,6 +9519,8 @@
       "criticalPoint": 219,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 550,
       "regenCost": 700
     },
@@ -9408,6 +9610,8 @@
       "criticalPoint": 202,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 1,
+      "ammoCost": 1,
       "range": 850,
       "regenCost": 700
     },
@@ -9497,6 +9701,8 @@
       "criticalPoint": 197,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 8,
+      "ammoCost": 1,
       "range": 350,
       "regenCost": 700
     },
@@ -9591,6 +9797,8 @@
       "criticalPoint": 243,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 15,
+      "ammoCost": 3,
       "range": 650,
       "regenCost": 700
     },
@@ -9680,6 +9888,8 @@
       "criticalPoint": 198,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 50,
+      "ammoCost": 5,
       "range": 750,
       "regenCost": 700
     },
@@ -9769,6 +9979,8 @@
       "criticalPoint": 197,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 15,
+      "ammoCost": 3,
       "range": 650,
       "regenCost": 700
     },
@@ -9858,6 +10070,8 @@
       "criticalPoint": 243,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 50,
+      "ammoCost": 5,
       "range": 750,
       "regenCost": 700
     },
@@ -9952,6 +10166,8 @@
       "criticalPoint": 246,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 4,
+      "ammoCost": 2,
       "range": 450,
       "regenCost": 700
     },
@@ -10046,6 +10262,8 @@
       "criticalPoint": 207,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 25,
+      "ammoCost": 5,
       "range": 750,
       "regenCost": 700
     },
@@ -10135,6 +10353,8 @@
       "criticalPoint": 209,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 750,
       "regenCost": 700
     },
@@ -10224,6 +10444,8 @@
       "criticalPoint": 252,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 15,
+      "ammoCost": 3,
       "range": 750,
       "regenCost": 700
     },
@@ -10313,6 +10535,8 @@
       "criticalPoint": 202,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 4,
+      "ammoCost": 2,
       "range": 450,
       "regenCost": 700
     },
@@ -10407,6 +10631,8 @@
       "criticalPoint": 263,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 1,
+      "ammoCost": 1,
       "range": 850,
       "regenCost": 700
     },
@@ -10501,6 +10727,8 @@
       "criticalPoint": 202,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 850,
       "regenCost": 700
     },
@@ -10590,6 +10818,8 @@
       "criticalPoint": 204,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 15,
+      "ammoCost": 3,
       "range": 650,
       "regenCost": 700
     },
@@ -10684,6 +10914,8 @@
       "criticalPoint": 211,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 750,
       "regenCost": 700
     },
@@ -10773,6 +11005,8 @@
       "criticalPoint": 210,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 15,
+      "ammoCost": 3,
       "range": 650,
       "regenCost": 700
     },
@@ -10867,6 +11101,8 @@
       "criticalPoint": 201,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -10961,6 +11197,8 @@
       "criticalPoint": 194,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -11055,6 +11293,8 @@
       "criticalPoint": 245,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 15,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -11149,6 +11389,8 @@
       "criticalPoint": 200,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 8,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -11243,6 +11485,8 @@
       "criticalPoint": 223,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -11337,6 +11581,8 @@
       "criticalPoint": 259,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -11431,6 +11677,8 @@
       "criticalPoint": 262,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -11520,6 +11768,8 @@
       "criticalPoint": 218,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -11614,6 +11864,8 @@
       "criticalPoint": 211,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 8,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -11708,6 +11960,8 @@
       "criticalPoint": 252,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 6,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -11802,6 +12056,8 @@
       "criticalPoint": 216,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 15,
+      "ammoCost": 3,
       "range": 1000,
       "regenCost": 700
     },
@@ -11896,6 +12152,8 @@
       "criticalPoint": 218,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 15,
+      "ammoCost": 3,
       "range": 1000,
       "regenCost": 700
     },
@@ -11985,6 +12243,8 @@
       "criticalPoint": 216,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 1,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -12074,6 +12334,8 @@
       "criticalPoint": 202,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 1,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -12168,6 +12430,8 @@
       "criticalPoint": 202,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 1,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -12257,6 +12521,8 @@
       "criticalPoint": 210,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -12346,6 +12612,8 @@
       "criticalPoint": 248,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 8,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -12435,6 +12703,8 @@
       "criticalPoint": 211,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -12524,6 +12794,8 @@
       "criticalPoint": 202,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -12618,6 +12890,8 @@
       "criticalPoint": 251,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -12707,6 +12981,8 @@
       "criticalPoint": 238,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -12801,6 +13077,8 @@
       "criticalPoint": 217,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -12890,6 +13168,8 @@
       "criticalPoint": 270,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -12979,6 +13259,8 @@
       "criticalPoint": 211,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -13068,6 +13350,8 @@
       "criticalPoint": 202,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -13157,6 +13441,8 @@
       "criticalPoint": 218,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -13246,6 +13532,8 @@
       "criticalPoint": 252,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -13344,6 +13632,8 @@
       "criticalPoint": 254,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 1,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -13438,6 +13728,8 @@
       "criticalPoint": 250,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 1,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -13532,6 +13824,8 @@
       "criticalPoint": 273,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 1,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -13630,6 +13924,8 @@
       "criticalPoint": 270,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 1,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -13724,6 +14020,8 @@
       "criticalPoint": 273,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 1,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -13818,6 +14116,8 @@
       "criticalPoint": 272,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 1,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -13907,6 +14207,8 @@
       "criticalPoint": 264,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 1,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -13996,6 +14298,8 @@
       "criticalPoint": 199,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 4,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -14085,6 +14389,8 @@
       "criticalPoint": 196,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 4,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -14179,6 +14485,8 @@
       "criticalPoint": 195,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 8,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -14273,6 +14581,8 @@
       "criticalPoint": 204,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 30,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -14367,6 +14677,8 @@
       "criticalPoint": 245,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 24,
+      "ammoCost": 6,
       "range": 1000,
       "regenCost": 700
     },
@@ -14461,6 +14773,8 @@
       "criticalPoint": 195,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 8,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -14555,6 +14869,8 @@
       "criticalPoint": 200,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 8,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -14649,6 +14965,8 @@
       "criticalPoint": 197,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 15,
+      "ammoCost": 3,
       "range": 1000,
       "regenCost": 700
     },
@@ -14743,6 +15061,8 @@
       "criticalPoint": 210,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 8,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -14837,6 +15157,8 @@
       "criticalPoint": 198,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 15,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -14931,6 +15253,8 @@
       "criticalPoint": 200,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 15,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -15020,6 +15344,8 @@
       "criticalPoint": 203,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -15114,6 +15440,8 @@
       "criticalPoint": 201,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 20,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -15203,6 +15531,8 @@
       "criticalPoint": 203,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 20,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -15292,6 +15622,8 @@
       "criticalPoint": 201,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 20,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -15386,6 +15718,8 @@
       "criticalPoint": 197,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 15,
+      "ammoCost": 3,
       "range": 1000,
       "regenCost": 700
     },
@@ -15480,6 +15814,8 @@
       "criticalPoint": 261,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 8,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -15574,6 +15910,8 @@
       "criticalPoint": 217,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 8,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -15668,6 +16006,8 @@
       "criticalPoint": 261,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 8,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -15762,6 +16102,8 @@
       "criticalPoint": 252,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 1000,
       "regenCost": 700
     },
@@ -15851,6 +16193,8 @@
       "criticalPoint": 253,
       "criticalDamageRate": 20000,
       "criticalDamageRatePercentage": 200,
+      "ammoCount": 5,
+      "ammoCost": 1,
       "range": 1500,
       "regenCost": 700
     },
